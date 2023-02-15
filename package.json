@@ -1,0 +1,30 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "format": "prettier --write \"**/*.{js,css,md,html,txt}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadoda/rdk-nuxt-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomadoda/rdk-nuxt-3/issues"
+  },
+  "homepage": "https://github.com/nomadoda/rdk-nuxt-3#readme",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4"
+  },
+  "lint-staged": {
+    "*.{js,css,md,html,txt}": "prettier --write"
+  }
+}
