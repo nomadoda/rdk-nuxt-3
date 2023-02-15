@@ -1,0 +1,730 @@
+# Redirects from what the browser requests to what we serve
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+
+# ADS
+
+# FROM              # TO
+/hyra               https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKHH&utm_source=tidning&utm_medium=ad&utm_campaign=rdkhh
+/hemochhyra         https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKHH&utm_source=tidning&utm_medium=printad&utm_campaign=hh2206
+/hemmets            https://interact.djurensratt.se/am/rdk99?kod=RDKHEMMETS99&utm_source=hemmets&utm_medium=printad&utm_campaign=hemmets99
+/allers             https://interact.djurensratt.se/am/rdk99?kod=RDKALLERS99&utm_source=allers&utm_medium=printad&utm_campaign=allers99
+/viforaldrar        https://interact.djurensratt.se/am/rdk99?kod=RDKVF99&utm_source=viforaldrar&utm_medium=printad&utm_campaign=vf99
+/tara               https://interact.djurensratt.se/am/rdk99?kod=RDKTARA99&utm_source=tara&utm_medium=printad&utm_campaign=tara99
+/pets               https://interact.djurensratt.se/ge-medlemskap/pets?kod=RDKGRW21&utm_source=rdk&utm_medium=pets&utm_campaign=210902pets
+/senioren						https://interact.djurensratt.se/ge-medlemskap/241?kod=2FOR1RDKDA&utm_source=senioren&utm_medium=ad&utm_campaign=senioren21
+/pro						  	https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKJM22PRO&utm_source=pro&utm_medium=print&utm_campaign=jul
+/dagen              https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKDAG21&utm_source=rd&utm_medium=dagen&utm_campaign=210708rdk
+/klubbnyttjul				https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKKNJM21&utm_source=klubbnytt&utm_medium=print&utm_campaign=klubbnyttjul
+/amelia				https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKJM22AMELIA&utm_source=ameliajul&utm_medium=print&utm_campaign=jul
+/magasin						https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKJM22MM&utm_source=mmagasin&utm_medium=print&utm_campaign=jul
+/medlemskap					https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKPUJM21&utm_source=adr&utm_medium=printad&utm_campaign=rdkpostaltjul
+/journal 						https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKIHJM21&utm_source=icahemmets&utm_medium=print&utm_campaign=rdk211202
+/hemhyra 						https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKHH&utm_source=tidning&utm_medium=ad&utm_campaign=rdkhh221
+/etc                  https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKETCJM22&utm_source=etc&utm_medium=print&utm_campaign=jul
+/extra 							https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKVNJM21&utm_source=veckansnu&utm_medium=print&utm_campaign=veckansnu
+/sanna 							https://interact.djurensratt.se/ge-medlemskap/provamedlemskap?kod=RDKGRWSB&utm_source=some&utm_medium=post&utm_campaign=sanna21
+/blimedlem          https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKDJR&utm_source=djr&utm_medium=t&utm_campaign=rdkdjr
+/skola              https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKMONT&utm_source=tidning&utm_medium=ad&utm_campaign=rdkmont223
+/skolfamiljen       https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKSKOLF&utm_source=skolfamiljen&utm_medium=printad&utm_campaign=skolfamiljen22
+/julklapp           https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKJM22DJR&utm_source=tidningl&utm_medium=print&utm_campaign=jul
+/hem                https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKHHJM22&utm_source=hemhyra&utm_medium=print&utm_campaign=jul
+/katt               https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKJM22AFTS&utm_source=absondag&utm_medium=print&utm_campaign=jul
+/jul                https://interact.djurensratt.se/ge-medlemskap/julklapp?kod=RDKAN&utm_source=abexp&utm_medium=print&utm_campaign=jul
+/djurvan            https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKDJR&utm_source=djr&utm_medium=print&utm_campaign=NA&utm_id=NA&utm_term=NA
+
+# Short URLs
+# FROM                                        # TO
+/enkat                                        /medlemsundersokningen
+/radda-djuren                                 /hjalp-djuren
+
+
+# MEMBERSHIP
+# FROM                                        # TO
+/medlem                                       /bli-medlem
+/klubbmedlem                                  https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKMF&utm_source=rdk&utm_medium=folder&utm_campaign=rdkmf
+/ge-medlemskap                                https://interact.djurensratt.se/ge-medlemskap/raddadjuren?kod=RDKFBOOK&utm_source=fb&utm_medium=post&utm_campaign=rdkfbstatic
+
+# ARTICLES
+# FROM                                        # TO
+/kategori/artikel                             /lar-dig-mer
+/kategori/featured-small/                     /lar-dig-mer
+
+# Klubbnytt
+/kategori/klubbnytt                           /klubbnytt
+/kategori/tidningen                           /klubbnytt
+
+#Gamla miniklubbarna
+
+/miniklubbarnas-arbetsomraden/hjalp-varandra-att-vara-djurvanner                        /starta-miniklubb/djurvanliga-val
+/miniklubbarnas-arbetsomraden/lara-sig-vad-djur-behover-for-att-ma-bra                  /starta-miniklubb/vad-djur-behover
+/miniklubbarnas-arbetsomraden/peppa-fler-att-stalla-sig-pa-djurens-sida                 /starta-miniklubb/peppa-till-djurvanliga-val
+/miniklubbarnas-arbetsomraden                                                           /starta-miniklubb/varfor-starta-miniklubb
+
+
+# slug to path fix
+/radda-djuren/djurvanlig-pask					        /radda-djuren/pyssla-djurvanligt-jul-2021
+
+
+# Redirects for fixed klubbnytt sitemap bug
+/klubbnytt/barn-vill-bli-vegan-vegetarian     /vuxen-eller-pedagog/barn-vill-bli-vegan-vegetarian 301
+/klubbnytt/tidningen-klubbnytt                /vuxen-eller-pedagog/tidningen-klubbnytt 301
+/klubbnytt/sanning-eller-myt                  /vuxen-eller-pedagog/sanning-eller-myt 301
+/klubbnytt/recept-pasta                       /vuxen-eller-pedagog/recept-pasta 301
+/klubbnytt/recept-vardag                      /vuxen-eller-pedagog/recept-vardag 301
+/klubbnytt/vanliga-fragor                     /vuxen-eller-pedagog/vanliga-fragor 301
+/klubbnytt/bara-ett-djur                      /vuxen-eller-pedagog/bara-ett-djur 301
+/klubbnytt/om-radda-djuren-klubben            /vuxen-eller-pedagog/om-radda-djuren-klubben 301
+/klubbnytt/om-webbplatsen-raddadjuren-klubben /vuxen-eller-pedagog/om-webbplatsen-raddadjuren-klubben 301
+
+# ANIMALS
+# FROM                                        # TO
+/kategori/djur                                /djurfakta
+/veckans-djur-vessla                          /djurfakta/vessla
+/veckans-djur-uggla                           /djurfakta/uggla
+/veckans-djur-tukan                           /djurfakta/tukan
+/tjadern-en-skogsfagel                        /djurfakta/tjader
+/veckans-djur-struts                          /djurfakta/struts
+/veckans-djur-sjohast                         /djurfakta/sjohasten
+/veckans-djur-pingvinen                       /djurfakta/pingvinen
+/nabbdjuret                                   /djurfakta/nabbdjur
+/veckans-djur-mullvad                         /djurfakta/mullvad
+/lurig-som-en-gris                            /djurfakta/gris
+/veckans-djur-kolibri                         /djurfakta/kolibri
+/veckans-djur-koala                           /djurfakta/koala
+/knubbiga-salar                               /djurfakta/knubbsal
+/kea                                          /djurfakta/kea
+/veckans-djur-isbjorn                         /djurfakta/isbjorn
+/humla                                        /djurfakta/humla
+/humlor-som-spelar-golf                       /djurfakta/humla
+/veckans-djur-havsorn                         /djurfakta/havsorn
+/veckans-djur-glasogonkajman                  /djurfakta/glasogonkajman
+/veckans-djur-giraff                          /djurfakta/giraff
+/flodhast                                     /djurfakta/flodhast
+/veckans-djur-flamingo                        /djurfakta/flamingo
+/far                                          /djurfakta/far
+/kloka-elefanter                              /djurfakta/elefant
+/elefanter-kan-hora-med-tarna                 /djurfakta/elefant
+/veckans-djur-ekorre                          /djurfakta/ekorre
+/djurfakta/ekorren                            /djurfakta/ekorre
+/veckans-djur-delfin                          /djurfakta/delfin
+/veckans-djur-bladskararmyror                 /djurfakta/bladskararmyra
+/veckans-djur-baltdjur                        /djurfakta/baltdjur
+/veckans-djur-albatross                       /djurfakta/albatross
+/kategori/djur                                /raddadjuren
+/djur-pa-stranden                             /djurfakta
+/alpackan                                     /djurfakta/alpacka
+
+
+# 404 SITES
+# FROM                                        # TO
+/om                                           / 404
+
+/tidningen-radda-djuren-klubbnytt-nr-4-2019   / 404
+/tidningen-radda-djuren-klubbnytt-nr-3-2019   / 404
+/tidningen-radda-djuren-klubbnytt-nr-5-2019   / 404
+/tidningen-radda-djuren-klubbnytt-nr-1-2020   / 404
+/tidningen-radda-djuren-klubbnytt-nr-2-2020   / 404
+/tidningen-radda-djuren-klubbnytt-2-2019      / 404
+/tidningen-radda-djuren-klubbnytt-1-2019      / 404
+/tidningen-radda-djuren-klubbnytt-5-2018      / 404
+/tidningen-radda-djuren-klubbnytt-4-2018      / 404
+/tidningen-radda-djuren-klubbnytt-3-2018      / 404
+/tidningen-radda-djuren-klubbnytt-2-2018      / 404
+/tidningen-radda-djuren-klubbnytt-5-2017      / 404
+/tidningen-radda-djuren-klubbnytt-4-2017      / 404
+/tidningen-radda-djuren-klubbnytt-1-2018      / 404
+/tidningen-radda-djuren-klubbnytt-3-2017      / 404
+/tidningen-radda-djuren-klubbnytt-2-2017      / 404
+/tidningen-radda-djuren-1-2016                / 404
+/tidningen-radda-djuren-5-2015                / 404
+/tidningen-radda-djuren-4-2015                / 404
+/tidningen-radda-djuren-3-2015                / 404
+/tidningen-radda-djuren-klubbnytt-nr-3-2020   / 404
+/tidningen-radda-djuren-1-2017                / 404
+/tidningen-radda-djuren-2-2016                / 404
+/tidningen-radda-djuren-5-2016                / 404
+/kategori/smarrigt/godis                      / 404
+/kategori/smarrigt/bakat                      / 404
+/kategori/smarrigt/matigt                     / 404
+/kategori/kim-och-mika                         / 404
+/kim-och-mika-43                               / 404
+/kim-och-mika-42                               / 404
+/kim-och-mika-41                               / 404
+/kim-och-mika-40                               / 404
+/kim-och-mika-39                               / 404
+/kim-och-mika-38                               / 404
+/kim-och-mika-37                               / 404
+/kim-och-mika-36                               / 404
+/kim-och-mika-35                               / 404
+/kim-och-mika-34                               / 404
+/kim-och-mika-33                               / 404
+/kim-och-mika-32                               / 404
+/kim-och-mika-31                               / 404
+/kim-och-mika-30                               / 404
+/kim-och-mika-29                               / 404
+/kim-och-mika-28                               / 404
+/kim-och-mika-27                               / 404
+/kim-och-mika-26                               / 404
+/kim-och-mika-25                               / 404
+/kim-och-mika-24                               / 404
+/kim-och-mika-23                               / 404
+/kim-och-mika-22                               / 404
+/kim-mika-21                                   / 404
+/kim-mika-20                                   / 404
+/serie-kim-mika-19                             / 404
+/serie-kim-mika-18                             / 404
+/serie-kim-mika-17                             / 404
+/kim-mika-16                                   / 404
+/seriekimmika15                                / 404
+/serie-kim-mika-14                             / 404
+/serie-kim-mika-13                             / 404
+/serie-kim-mika-12                             / 404
+/serie-kim-mika-11                             / 404
+/serie-kim-mika-10                             / 404
+/serie-kim-mika-9                              / 404
+/serie-kim-mika-8                              / 404
+/serie-kim-och-mika-7                          / 404
+/serie-kim-mika-6-2                            / 404
+/serie-kim-och-mika-5                          / 404
+/serie-kim-mika-4                              / 404
+/serie-kim-mika-3                              / 404
+/kim-mika                                      / 404
+/kategori/knep-o-knap                          / 404
+/kategori/knep-o-knap/knep-knap                / 404
+/kategori/knep-o-knap/korsord                  / 404
+/kategori/knep-o-knap/malarbilder              / 404
+/kategori/knep-o-knap/pixelpussel              / 404
+/kategori/aktivera-mera                        / 404
+/kategori/boktips                              / 404
+/kategori/featured-small/berattelse            / 404
+/kategori/djurens-hjalte                       / 404
+/kategori/reportage/dromjobbet                 / 404
+/kategori/featured-small                       / 404
+/kategori/lasarsidan                           / 404
+/kategori/pelle                                / 404
+/kategori/pyssel                               / 404
+/kategori/reportage                            / 404
+/kategori/smarrigt                             / 404
+/kategori/tavla-med-oss                        / 404
+/traffa-vilda-djur-i-mobilen                    / 404
+/facit-korsord-3-2020                           / 404
+/sota-pappersfigurer-till-paskriset              / 404
+/paskpyssel                                      / 404
+/paskfjadrar-varifran-kommer-de                  / 404
+/facit-korsord-2-2020                            / 404
+/tavling                                        / 404
+/facit-knep-och-knap-klubbnytt-1-2020            / 404
+/facit-korsord-1-2020                            / 404
+/ge-bort-ett-medlemskap-i-julklapp               / 404
+/en-godare-jul-for-djuren                         / 404
+/facit-knep-och-knap-klubbnytt-5-2019             / 404
+/facit-korsord-5-2019                              / 404
+/facit-korsord-4-2019                               / 404
+/facit-till-tipspromenaden-pa-barnens-kulturkalas   / 404
+/lar-katten-tricks                                  / 404
+/facit-knep-och-knap-klubbnytt-3-2019               / 404
+/facit-korsord-nr-3-2019                            / 404
+/facit-korsord-nr-2-2019                            / 404
+/facit-knep-och-knap-klubbnytt-2-2019               / 404
+/blommande-paskris                               / 404
+/paskiga-servettringar-av-toarullar               / 404
+/paskfjadrar-i-papper                               / 404
+/fina-paskskalar-i-papier-mache                     / 404
+/sota-strumpharar                               / 404
+/fargglada-tradagg                               / 404
+/tavla-om-boken-lilla-na-och-djurkuppen          / 404
+/facit-korsord-nr-1-2019                          / 404
+/facit-korsord-nr-5-2018                          / 404
+/halloweenpyssel                               / 404
+/facit-korsord-nr-4-2018                       / 404
+/facit-tipspromenad-pa-barnens-kulturkalas     / 404
+/kulturkalas                                    / 404
+/facit-knep-knap-klubbnytt-3-2018               / 404
+/tavling-deckarna                               / 404
+/facit-korsord-nr-3-2018                        / 404
+/facit-korsord-nr-2-2018                          / 404
+/fria-och-eira-inga-farskallar                     / 404
+/facit-korsord-nr-1-2018                          / 404
+/facit-knep-och-knap-klubbnytt-1-18              / 404
+/katten-xanders-forsta-steg-i-frihet            / 404
+/facit-korsord-nr-5-2017                        / 404
+/lika-som-gris-och-hund                          / 404
+/kanda-grisar                                      / 404
+/facit-korsord-nr-4-2017                           / 404
+/traffa-radda-djuren-klubben-pa-bokmassan-i-goteborg  / 404
+/facit-knep-och-knap-nr-3-2017                        / 404
+/facit-sommarkorsord-nr-3-2017                        / 404
+/sommarkorsord                                       / 404
+/ett-surrande-korsord                               / 404
+/gor-sota-burkar-av-petflaskor                      / 404
+/alva-skriver-insandare-for-djuren                  / 404
+/en-strumphare-blir-till                           / 404
+/tygfjadrar                                        / 404
+/facit-finn-fem-fel                               / 404
+/facit-korsord-nr-2-2017                          / 404
+/andreas-tog-hand-om-chinchillor-i-nod             / 404
+/djur-som-lever-pa-natten                          / 404
+/kaniner-ar-flockdjur                              / 404
+/julia-alskar-djur                               / 404
+/rita-for-kaninerna                             / 404
+/facit-nr-1-17                                  / 404
+/korsord-nr-1-2017                               / 404
+/att-forlora-ett-familjedjur                     / 404
+/de-hjalper-skadade-djur                          / 404
+/therese-lindgren-youtubestjarnan-som-vill-radda-djuren  / 404
+/arsmote                                                / 404
+/nora-tycker-att-alla-kan-testa-vegetariskt             / 404
+/vegansk-chokladtryffel                               / 404
+/philadelphiabullar-i-langpanna                       / 404
+/supergoda-raw-brownies                               / 404
+/kolapaj-med-karamellmandlar                           / 404
+/wienerbrod                                             / 404
+/vegokoll-sommarmarangtarta                               / 404
+/korvgifflar                                            / 404
+/lasagne-med-sojafars                                   / 404
+/vegoteket-mango-och-avokadosmoothie-2                  / 404
+/vegankocken-vegansk-nachogratang                       / 404
+/vardagsmatad-var-egna-varmkorv                         / 404
+/karolina-tegelaar-veganska-kanelbullar                  / 404
+/one-arab-vegan-vegansk-muhallabia                       / 404
+/djurens-hjalte-vilmer-skriver-for-hummern                / 404
+/kokoskaka                                              / 404
+/under-ytan                                             / 404
+/indisk-rispudding-saffranskheer                        / 404
+/korsord-pa-savannen                                    / 404
+/vegokoll-glutenfria-bars                               / 404
+/fagelmatare                                            / 404
+/att-vara-allergisk-mot-palsdjur                        / 404
+/gaashud-chokladmousse-utan-agg-och-mjolk                / 404
+/de-raddar-vilda-faglar                                     / 404
+/linssoppa-med-smak-av-apelsin-limeblad-koriander-och-chili   / 404
+/gabriel-skrev-till-statsministern                               / 404
+/knackflarn-med-olika-fyllningar                               / 404
+/khanom-krok-thailandska-kokospannkakor                        / 404
+/parlplattor-till-jul                                          / 404
+/aktivera-en-hundkompis                                     / 404
+/gaashud-frostiga-saffranskakor                             / 404
+/mira-li-trycker-trojor                                     / 404
+/en-helt-vanlig-sockerkaka                               / 404
+/karolina-tegelaar-pannkakstartan                       / 404
+/therese                                                / 404
+/kop-inte-adoptera                                      / 404
+/gaashud-den-godaste-krusbarspajen                      / 404
+/skogsdjur-i-papier-mache-lera                         / 404
+/susanne-jonsson-lyxig-hasselnotskram                   / 404
+/silke-bloggar-for-djuren                               / 404
+/gabriella-terneborg-rabarbertarta-med-mandelfyllning-och-knaprig-topping   / 404
+/hur-mycket-vager-en-blaval                              / 404
+/mala-stendjur                                  / 404
+/aktivera-mera-rattor-tycker-att-det-ar-roligt-och-spannande-att-leta-efter-mat  / 404
+/napoleonbakelse-snabbvarianten                   / 404
+/knep-knap-korsord                               / 404
+/gaashud-rabarberkaka-med-mandelmassa            / 404
+/tekla-testar-sommarens-glassar                     / 404
+/knep-och-knap-labyrint                               / 404
+/pelles-blogg-sommarlov                               / 404
+/vegokoll-veganska-grillspett                               / 404
+/pelles-blogg-tandlakaren                               / 404
+/intervju-fotografen-mattias-klum-brinner-for-djur-och-natur   / 404
+/vardagsmatad-dromburgaren                               / 404
+/fota-djur                                               / 404
+/knep-och-knap-hitta-djuren                               / 404
+/gaashud-jordgubbschiapudding                               / 404
+/hej-2005-03                                                / 404
+/gaashud-jordgubbspaj-med-mandelmassasmul                   / 404
+/lurig-som-en-gris                                           / 404
+/vegoteket-pekan-och-jordnotssmor                           / 404
+/djurratt-hela-vagen-for-rickard-soderberg                  / 404
+/intervju-vera-nord-sjunger-om-sitt-liv                     / 404
+/djurens-hjaltar-moa-nellie                      / 404
+/parlplattor                               / 404
+/vegoteket-choklad-och-vaniljvafflor           / 404
+/vegoteket-hamburgerbrod-och-havsburgare          / 404
+/knep-och-knap-korrens-korsord                    / 404
+/pyssel-harband-av-strumpor                       / 404
+/lovisa-raddar-honor                               / 404
+/intervju-djurvannen-beppe                        / 404
+/djurens-hjalte-maja                               / 404
+/vegoteket-veganska-chocolate-chip-cookies         / 404
+/aktivering-marsvin                               / 404
+/gaashud-no-bake-cheesecake                      / 404
+/vegoteket-potatis-och-rodbetschips              / 404
+/kaninens-korsord                               / 404
+/djur-spackhuggaren                               / 404
+/bjornar-pa-film                               / 404
+/boktips-far-hundar-korvar-i-himlen             / 404
+/pelles-blogg-den-forsta-snon                   / 404
+/pelle-god-jul                               / 404
+/pelles-blogg-talgbollsvaktaren                 / 404
+/pelles-blogg-ljusterapi                          / 404
+/vegoteket-mango-och-avokadosmoothie             / 404
+/barnboksveckor-i-pitea                               / 404
+/pizza-med-nutella-bar-vit-choklad               / 404
+/pyssla-med-garn                               / 404
+/nya-malarbilder                               / 404
+/pixelpussel-varelse-med-ett-horn              / 404
+/vegansk-nutellahasselnotsmor                  / 404
+/vattenradjur                               / 404
+/varldens-storsta-ogon                       / 404
+/att-trana-med-hundar                        / 404
+/dromjobbet-hundinstruktor-och-hundrastare    / 404
+/pelles-blogg-hurra-for-mig-idag              / 404
+/djurraddarklubben                               / 404
+/djurens-hjalte-lisa                             / 404
+/puff-farg                               / 404
+/bengt                                          / 404
+/djurens-hjalte-julia-2                               / 404
+/gabbys-godbitar-dammsugare                               / 404
+/i-en-varld-av-dofter                               / 404
+/djurenshjalte-clara                               / 404
+/smarriga-cupcakes                               / 404
+/pelles-blogg-jag-gillar-paddor-och-moss      / 404
+/dromjobbet                               / 404
+/djurens-hjalte-mirabel                       / 404
+/pelles-blogg-min-jul                           / 404
+/pelles-blogg-god-jul                           / 404
+/en-halsning-fran-embla                          / 404
+/pelles-blogg-dan-fore-paketoppnardan                / 404
+/julgodis-2                                          / 404
+/mala-med-radda-djuren-klubben                     / 404
+/ge-bort-ett-medlemskap-i-radda-djuren-klubben      / 404
+/pelles-blogg                                           / 404
+/manifestation-for-minkarna-pa-medborgarplatsen   / 404
+/pixelpussel-ledtrad-inte-prickig                 / 404
+/djurens-hjalte-signe                               / 404
+/halloj-gristian                               / 404
+/piffig-bakgrund-till-din-dator-eller-platta         / 404
+/flickan-kakorna-choklad-mint-och-pepparmintspastiller       / 404
+/tjenixen-ravmond                               / 404
+/paulina-och-bella-tranar-med-klicker                  / 404
+/ett-besok-pa-en-fristad-for-djur                     / 404
+/pixelpussel-ledtrad-med-fyra-ben                      / 404
+/gaashud-segt-ris-i-kokosmjolk-med-majs              / 404
+/tjohej-kornelia                                         / 404
+/djurens-hjalte-katharina                               / 404
+/pixelpussel-ledtrad-med-langa-ben                      / 404
+/flickan-kakorna-chocolate-chip-cookie-pie             / 404
+/pelles-blogg-att-besoka-veterinaren                  / 404
+/tjenixen-honrietta                               / 404
+/gaashud-ananasmangokokospaj                     / 404
+/halloj-kajnin                                  / 404
+/pelles-blogg-mina-hobbys                         / 404
+/pixelpussel-ledtrad-i-det-bla                      / 404
+/gaashud-fladercheesecakeglass-med-aprikosrippel    / 404
+/pelles-blogg-semesterkatt                               / 404
+/veckans-djur-kapucinapa-rullsvansapa                  / 404
+/veckans-djur-leguan                               / 404
+/veckans-djur-vaktel                               / 404
+/pelles-blogg-grona-tassar-2                               / 404
+/pelles-blogg-tokig-mandag                               / 404
+/veckans-djur-strandkrabba                               / 404
+/veckans-djur-tapir                               / 404
+/pelles-blogg-ingen-vanlig-dag                     / 404
+/pelle-the-cat-min-rost-for-minkarna              / 404
+/pelles-blogg-leksaker                               / 404
+/veckans-djur-skunk                               / 404
+/pelles-blogg-forlat                               / 404
+/snowball-den-dansande-kakaduan                      / 404
+/veckans-djur-pungratta                               / 404
+/veckans-djur-rod-panda-kattbjorn                 / 404
+/veckans-djur-valross                               / 404
+/veckans-djur-vampyrblackfisk                      / 404
+/veckans-djur-hyena                               / 404
+/veckans-djur-mullvad                               / 404
+/insandare-bea                               / 404
+/veckans-djur-grashoppa                      / 404
+/cupcakes                               / 404
+/pelles-blogg-nisse-gastbloggar            / 404
+/mala-med-radda-djuren                      / 404
+/veckans-djur-snacka                        / 404
+/flickan-och-kakorna-ice-cream-soda             / 404
+/veckans-djur-krokodil                               / 404
+/pelles-blogg-attack-2                               / 404
+/chocolate-chip-cookies-med-nougat                 / 404
+/veckans-djur-sjostjarna                               / 404
+/pelles-blogg-min-egen-lejonklippa                 / 404
+/hjalte-selma                               / 404
+/veckans-djur-mardhund                               / 404
+/vilmer-tanker-pa-vargarna                         / 404
+/pixelpussel-ledtrad-hoppar                      / 404
+/fido-rabiesgrot                               / 404
+/djurens-hjalte-leo                               / 404
+/veckans-djur-kamel                               / 404
+/pelles-blogg-mitt-fonster                   / 404
+/pixelpussel-kroppen                               / 404
+/lyxig-chokladkaka                               / 404
+/veckans-djur-sjolejon                               / 404
+/veckans-djur-sengangare                               / 404
+/pixelpussel-ledtrad-till-en-dorr                       / 404
+/pelles-blogg-trevlig-helg                               / 404
+/morotssoppa-med-linser-och-apelsin             / 404
+/veckans-djur-surikat                               / 404
+/pelles-blogg-att-bli-vackt                        / 404
+/pelles-blogg-blomattacken                      / 404
+/veckans-djur-trollslanda                        / 404
+/veckans-djur-lama                               / 404
+/pelles-blogg-gott-nytt-ar                       / 404
+/veckans-djur-rod-jattekanguru                  / 404
+/julgodis                               / 404
+/fido-familjen-har-julbakat-och-bloggpimpat    / 404
+/pelles-blogg-flyttkatt                               / 404
+/veckans-djur-pelikan                               / 404
+/pelles-blogg-adventskatten                               / 404
+/djurenshjalteliv                               / 404
+/bostonkakor                               / 404
+/veckans-djur-okapi                               / 404
+/pixelpussel-nummer-tre                               / 404
+/veckans-djur-vartsvin                               / 404
+/fido-uno-smakar-vietnamesisk-gryta              / 404
+/veckans-djur-havsorn                           / 404
+/2338                               / 404
+/aktivering-for-rattor                               / 404
+/rattsprak                               / 404
+/nar-familjedjur-dor                               / 404
+/pennpyssel                               / 404
+/channa-djurens-hjalte                               / 404
+/philomene                               / 404
+/philofix-gor-ditt-eget-ge-bort-kort         / 404
+/veckans-djur-utter                               / 404
+/pelles-blogg-tandtrad                            / 404
+/pelles-blogg-attack                               / 404
+/pelles-blogg-fluortanten                               / 404
+/fixad-grot                               / 404
+/nyckelpiga                               / 404
+/de-bloggar-for-djuren                               / 404
+/pelles-blogg-stolliga-getter                 / 404
+/att-se-fria-delfiner-i-skottland            / 404
+/jag-gillar-inte-mornar                               / 404
+/yoghurtglass-med-blabar                               / 404
+/nasselfjaril                               / 404
+/pelles-blogg-skamt                               / 404
+/rodrav                               / 404
+/pelles-blogg-stickig-katt                  / 404
+/vegokebabpizza                            / 404
+/pelles-blogg-svar-pa-fraga                  / 404
+/pakammen                               / 404
+/pelles-blogg-kampanjprofil                  / 404
+/veckans-djur-knolsvan                             / 404
+/chokladglass-pa-fryst-banan-2-portioner           / 404
+/pelles-blogg-vi-laser                           / 404
+/pelles-blogg-fraga-mig                        / 404
+/pelles-blogg-sensommardagar                  / 404
+/pelles-blogg-regnbagsfest                   / 404
+/fido-kolla-finn-huet-han-ar-helt-bang-den            / 404
+/pelles-blogg-grona-tassar                   / 404
+/den-harliga-honan                         / 404
+/coola-kor                               / 404
+/gulliga-grisar                               / 404
+/chilli-6-ar                               / 404
+/veckans-djur-deepstaria-enigmatica       / 404
+/1736                               / 404
+/pelles-blogg-en-dag-i-solen                   / 404
+/veckans-djur-ringsvanslemur                    / 404
+/veckans-djur-orangutang                    / 404
+/pelles-blogg-uppochner                   / 404
+/sagas-alskade-katt                               / 404
+/veckans-djur-trogkryparebjorndjur            / 404
+/pelles-blogg-en-gang-var-jag-hemlos          / 404
+/pelles-blogg-solkatt                               / 404
+/alexandras-kompis-snobben                               / 404
+/veckans-djur-vargen                               / 404
+/andreas-katter                               / 404
+/sommarlov                               / 404
+/veckans-djur-dumboblackfisk                     / 404
+/ 404-i-almedalen                               / 404
+/fantastiska-teckningar-fran-barnens-dag-i-helsingborg     / 404
+/veckans-djur-zebran                               / 404
+/matte-akte-till-gotland                               / 404
+/hasten-brandy                               / 404
+/1559                                       / 404
+/1544                                            / 404
+/jag-ar-pelle-the-cat                               / 404
+/veckans-djur-myrkotte                               / 404
+/tyras-favoriter                               / 404
+/basta-vanner                               / 404
+/simson-klarade-sig                               / 404
+/barnens-dag                               / 404
+/veckans-djur-ponnyn                               / 404
+/katter-soker-nya-hem                               / 404
+/veckans-djur-den-rodogda-bladgrodan            / 404
+/lisa-ar-djurens-hjalte                               / 404
+/sol-och-felix                               / 404
+/att-bygga-for-marsvin                               / 404
+/den-simmande-minken                               / 404
+/ta-hand-om-en-katt                               / 404
+/ta-hand-om-ett-marsvin                               / 404
+/ta-hand-om-en-hund                               / 404
+/pixelpussel-flyger-pa-natten                   / 404
+/pixelpussel-skyddar-fran-solen                  / 404
+/pixelpussel-knuten                               / 404
+/pixelpussel-ramla-trad                               / 404
+/pixelpussel-gron-frukt                               / 404
+/pixelpussel-bjorn                               / 404
+/pixelpussel-giftigt                               / 404
+/pixelpussel-bakas                               / 404
+/djurens-hjalte-2                               / 404
+/skogens-konung                               / 404
+/korsord-larv                               / 404
+/berattelse-fagelungen                   / 404
+/973                               / 404
+/rekorddjur                               / 404
+/vilket-minne                               / 404
+/pixelpussel-nummer-tva                 / 404
+/underbara-kaniner                               / 404
+/marsvinens-raddning                               / 404
+/hur-man-bygger-en-kaninhage                               / 404
+/lattaste-syltkakorna                               / 404
+/skoldpadda                               / 404
+/djurens-hjalte                               / 404
+/terapihunden-locka-jobbar-med-barn           / 404
+/tigge-tagga-raddad                               / 404
+/rapp-tunga-for-djuren                               / 404
+/vad-ar-positiv-hundtraning               / 404
+/katten                               / 404
+/fantasidjur                               / 404
+/smart-som-en-farskalle                     / 404
+/en-fagel-som-inte-kan-flyga                   / 404
+/den-mytomspunna-fladdermusen                     / 404
+/vilmer-ar-djurens-hjalte                      / 404
+/fiskar-vill-vara-i-havet                       / 404
+/den-fantastiska-krakan                        / 404
+/nico-9-ar                               / 404
+/alexandra                               / 404
+/sommarpyssel                               / 404
+/felix-blaval                               / 404
+/burgare                               / 404
+/vafflor                               / 404
+/pannkakor                               / 404
+/flygande-tofu                               / 404
+/smoothies                               / 404
+/chokladbollar                               / 404
+/bullar                               / 404
+/scones                               / 404
+/vegetarisk-kottfarssasv             / 404
+/pizza                               / 404
+/boktips-tank-om                        / 404
+/boktips-hund-i-paris                       / 404
+/puzzel-den-lilla-smuggelhundenv         / 404
+/karamellen-ordv                               / 404
+/begna-sparv                               / 404
+/gaddmordaren                               / 404
+/susanne-och-den-lilla-grisen           / 404
+/knapp                               / 404
+/tipspromenad                               / 404
+/tavlingtack                               / 404
+/bestallningtack                               / 404
+/provex                               / 404
+/thereselindgrentack                / 404
+/kontakta-oss                               / 404
+/prova                               / 404
+/shop                               / 404
+/cart                               / 404
+/checkout                               / 404
+/my-account                               / 404
+/ekort                               / 404
+/bilder-till-din-blogg-eller-hemsida      / 404
+/snackisplats                               / 404
+/medlemmar                               / 404
+/profil                               / 404
+/account                               / 404
+/kompisar                               / 404
+/vanner                               / 404
+/aktivitet                               / 404
+/inbox                               / 404
+/bamsetack                               / 404
+/bakgrunder                               / 404
+/hjaltetips                               / 404
+/minifakta/djur-i-djurforsok              / 404
+/minifakta/djur-som-familjemedlemmar       / 404
+/minifakta/djur-som-jagas                  / 404
+/minifakta/djur-som-klader                / 404
+/minifakta/djur-som-mat                    / 404
+/minifakta/underhallning               / 404
+/minifakta                               / 404
+/provex                                / 404
+/page/6/?tid=1191&quicktabs_flikarstartsida=0        / 404
+/flickan-kakorna-chocolate-chip-cookie-pie/          / 404
+/djurfakta/far-ar-bra-pa-att-klattra/             / 404
+/page/68/                               / 404
+/djur-spackhuggaren/                      / 404
+/etikett/djur-i-vattnet/                      / 404
+/author/admin/page/3/                               / 404
+/kategori/djur/page/2/                               / 404
+/djurfakta/kakapon-kan-inte-flyga/           / 404
+/underbara-kaniner/feed/                               / 404
+/fagelmatare                               / 404
+/djurfakta/tukanen/                               / 404
+/djurfakta/albatrossen-kan-flyga-langt-utan-att-bli-trott/   / 404
+/vuxen-eller-pedagog/om-hemsidan/                               / 404
+/pelle-the-cat-min-rost-for-minkarna/?utm_source=rss&utm_medium=rss&utm_campaign=pelle-the-cat-min-rost-for-minkarna&replytocom=639    / 404
+/vuxen-eller-pedagog/om-hemsidan                               / 404
+/chokladglass-pa-fryst-banan-2-portioner/?ak_action=reject_mobile      / 404
+/djurfakta/strutsen-ar-varldens-storsta-fagel/                 / 404
+/indisk-rispudding-saffranskheer/                               / 404
+/djurfakta/giraffen-ar-varldens-hogsta-djur/                  / 404
+/page/20/?tid=1189&quicktabs_flikarstartsida=0                      / 404
+/paskpyssel/                                                     / 404
+/page/20/?tid=1189&quicktabs_flikarstartsida=2                     / 404
+/page/29/?tid=1187                               / 404
+/veckans-djur-tukan/                               / 404
+/marsvinens-raddning/                               / 404
+/minifakta/djur-som-mat/                               / 404
+/therese-lindgren-youtubestjarnan-som-vill-radda-djuren/      / 404
+/djurfakta/koalan-sover-valdigt-mycket/                               / 404
+/fixad-grot/                                             / 404
+/veckans-djur-vartsvin/                               / 404
+/vegoteket-mango-och-avokadosmoothie/                 / 404
+/aktivering-for-rattor/                               / 404
+/djurfakta/fiskmasen-finns-i-hela-sverige/          / 404
+/under-ytan/                               / 404
+/djurfakta/delfinerna-pratar-med-visslingar-och-klickljud/     / 404
+/veckans-djur-snacka/                               / 404
+/serie-kim-mika-3/                               / 404
+/tavling/                               / 404
+/djur-pa-stranden/                               / 404
+/veckans-djur-rod-panda-kattbjorn/                 / 404
+/veckans-djur-leguan/                               / 404
+/veckans-djur-giraff/                               / 404
+/djurfakta/vesslan-flyttar-ofta/                   / 404
+/djurfakta/mullvaden-lever-under-jorden/            / 404
+/gaashud-segt-ris-i-kokosmjolk-med-majs/              / 404
+/veckans-djur-den-rodogda-bladgrodan/                / 404
+/kim-och-mika-27/feed/                               / 404
+/parlplattor/                                    / 404
+/den-harliga-honan/                               / 404
+/page/9/                                         / 404
+/veckans-djur-struts/                               / 404
+/kanda-grisar/                               / 404
+/tjadern-en-skogsfagel/                               / 404
+/veckans-djur-sjolejon/                               / 404
+/veckans-djur-tapir/                               / 404
+/hur-man-bygger-en-kaninhage/                               / 404
+/djurfakta/nabbdjuret-har-sina-tander-pa-tungan/           / 404
+/kategori/featured-small/minifokus/feed/               / 404
+/veckans-djur-myrkotte/                               / 404
+/djurfakta/flodhasten-gillar-verkligen-vatten/           / 404
+/vegoteket-mango-och-avokadosmoothie-2/            / 404
+/gaashud-chokladmousse-utan-agg-och-mjolk/           / 404
+/veckans-djur-skunk/                               / 404
+/skogsdjur-i-papier-mache-lera/                               / 404
+/snowball-den-dansande-kakaduan/                               / 404
+/de-raddar-vilda-faglar/                               / 404
+/author/pelle-the-cat/feed/                               / 404
+/pelles-blogg-grona-tassar/                               / 404
+/kategori/smarrigt/godis/page/3/                               / 404
+/djurfakta/flamingon-far-samma-farg-som-maten-den-ater/        / 404
+/boktips/                                               / 404
+/djurfakta/sjohasten/                               / 404
+/etikett/klattrande-djur/                               / 404
+/veckans-djur-sjohast/                               / 404
+/medlem/feed/                               / 404
+/etikett/djur-under-jord/                   / 404
+
+
+# Splats
+
+/kategori/*                                		/sok?sokord=:splat
+/page/*                                       /sok?sokord=:splat
+/djurfakta/*                                  /sok?sokord=:splat
+/minifakta/*                                  /sok?sokord=:splat
+/radda-djuren/*                                 /hjalp-djuren/:splat
