@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install",
-    "format": "prettier --write \"**/*.{js,css,md,html,txt}\""
+    "format": "prettier --write \"**/*.{js,css,md,html}\""
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,6 @@
     "prettier": "^2.8.4"
   },
   "lint-staged": {
-    "*.{js,css,md,html,txt}": "prettier --write"
+    "*.{js,css,md,html}": "prettier --write"
   }
 }
