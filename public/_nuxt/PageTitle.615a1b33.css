@@ -1,0 +1,20 @@
+h2[data-v-50d460a4] {
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  font-weight: 700;
+  padding: 1rem 0.75rem 0.75rem;
+  text-align: center;
+}
+h2.pink[data-v-50d460a4] {
+  background-color: #e6007e;
+}
+p.preamble[data-v-50d460a4] {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: 3rem auto;
+  max-width: 42rem;
+  text-align: center;
+  width: 83.33333333333334%;
+}
