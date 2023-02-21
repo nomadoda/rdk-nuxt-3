@@ -383,6 +383,78 @@ export default (function (
         _file: "block\u002Ffooter-djurens-ratt.md",
         _extension: p,
       },
+      "meta-block-foralder-eller-pedagog": {
+        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
+        _dir: l,
+        _draft: e,
+        _partial: e,
+        _locale: f,
+        _empty: e,
+        title: "Förälder eller Pedagog?",
+        description:
+          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+        excerpt: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: N }],
+                },
+                { type: b, value: h },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: O }],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: P }] },
+          ],
+        },
+        displayTitle: G,
+        editorDescription: "Footer-block för vuxna och pedagoger",
+        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
+        body: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: N }],
+                },
+                { type: b, value: h },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: O }],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: P }] },
+          ],
+          toc: { title: f, searchDepth: i, depth: i, links: [] },
+        },
+        _type: n,
+        _id: "content:block:foralder-eller-pedagog.md",
+        _source: o,
+        _file: "block\u002Fforalder-eller-pedagog.md",
+        _extension: p,
+      },
       $raOELVPXjJ: {
         _path: "\u002Fblock\u002Ffooter-top",
         _dir: l,
@@ -433,12 +505,12 @@ export default (function (
               tag: d,
               props: {},
               children: [
-                { type: b, value: N },
+                { type: b, value: Q },
                 {
                   type: a,
                   tag: j,
-                  props: { href: O },
-                  children: [{ type: b, value: P }],
+                  props: { href: R },
+                  children: [{ type: b, value: S }],
                 },
               ],
             },
@@ -447,9 +519,9 @@ export default (function (
               tag: d,
               props: {},
               children: [
-                { type: b, value: Q },
+                { type: b, value: T },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: R },
+                { type: b, value: U },
               ],
             },
             {
@@ -457,9 +529,9 @@ export default (function (
               tag: d,
               props: {},
               children: [
-                { type: b, value: S },
+                { type: b, value: V },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: T },
+                { type: b, value: W },
               ],
             },
           ],
@@ -477,12 +549,12 @@ export default (function (
               tag: d,
               props: {},
               children: [
-                { type: b, value: N },
+                { type: b, value: Q },
                 {
                   type: a,
                   tag: j,
-                  props: { href: O },
-                  children: [{ type: b, value: P }],
+                  props: { href: R },
+                  children: [{ type: b, value: S }],
                 },
               ],
             },
@@ -491,9 +563,9 @@ export default (function (
               tag: d,
               props: {},
               children: [
-                { type: b, value: Q },
+                { type: b, value: T },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: R },
+                { type: b, value: U },
               ],
             },
             {
@@ -501,9 +573,9 @@ export default (function (
               tag: d,
               props: {},
               children: [
-                { type: b, value: S },
+                { type: b, value: V },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: T },
+                { type: b, value: W },
               ],
             },
           ],
@@ -513,78 +585,6 @@ export default (function (
         _id: "content:block:footer-text.md",
         _source: o,
         _file: "block\u002Ffooter-text.md",
-        _extension: p,
-      },
-      "meta-block-foralder-eller-pedagog": {
-        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
-        _dir: l,
-        _draft: e,
-        _partial: e,
-        _locale: f,
-        _empty: e,
-        title: "Förälder eller Pedagog?",
-        description:
-          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-        excerpt: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: U }],
-                },
-                { type: b, value: h },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: V }],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: W }] },
-          ],
-        },
-        displayTitle: G,
-        editorDescription: "Footer-block för vuxna och pedagoger",
-        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
-        body: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: U }],
-                },
-                { type: b, value: h },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: V }],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: W }] },
-          ],
-          toc: { title: f, searchDepth: i, depth: i, links: [] },
-        },
-        _type: n,
-        _id: "content:block:foralder-eller-pedagog.md",
-        _source: o,
-        _file: "block\u002Fforalder-eller-pedagog.md",
         _extension: p,
       },
       $IwTD5indAh: {
@@ -622,7 +622,7 @@ export default (function (
       },
       "/topp-10-storsta-hajarna-article": u,
     },
-    prerenderedAt: 1677005226810,
+    prerenderedAt: 1677009444208,
   };
 })(
   "element",
@@ -664,6 +664,9 @@ export default (function (
   ".",
   "\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
   "Vi står alltid på djurens sida.",
+  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
+  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",
@@ -671,9 +674,6 @@ export default (function (
   "\nBox 7023, 402 31 Göteborg",
   "Chefredaktör: Åsa Björk",
   "\nAnsvarig utgivare: Benny Andersson",
-  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
-  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "img",
   "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg"
 );

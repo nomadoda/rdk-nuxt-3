@@ -513,6 +513,38 @@ export default (function (
         _file: "block\u002Fforalder-eller-pedagog.md",
         _extension: n,
       },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: o,
+        _draft: e,
+        _partial: e,
+        _locale: f,
+        _empty: e,
+        title: "footer-top",
+        description: u,
+        excerpt: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: u }] },
+          ],
+        },
+        displayTitle: e,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: v,
+        url: f,
+        body: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: u }] },
+          ],
+          toc: { title: f, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-top.md",
+        _source: m,
+        _file: "block\u002Ffooter-top.md",
+        _extension: n,
+      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
         _dir: o,
@@ -521,11 +553,11 @@ export default (function (
         _locale: f,
         _empty: e,
         title: "Footer Text",
-        description: u,
+        description: w,
         excerpt: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: u }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: w }] },
             {
               type: a,
               tag: c,
@@ -569,7 +601,7 @@ export default (function (
         body: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: u }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: w }] },
             {
               type: a,
               tag: c,
@@ -646,40 +678,8 @@ export default (function (
         _file: "block\u002Ffooter-image.md",
         _extension: n,
       },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
-        _dir: o,
-        _draft: e,
-        _partial: e,
-        _locale: f,
-        _empty: e,
-        title: "footer-top",
-        description: w,
-        excerpt: {
-          type: g,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: w }] },
-          ],
-        },
-        displayTitle: e,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
-        linkText: v,
-        url: f,
-        body: {
-          type: g,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: w }] },
-          ],
-          toc: { title: f, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:block:footer-top.md",
-        _source: m,
-        _file: "block\u002Ffooter-top.md",
-        _extension: n,
-      },
     },
-    prerenderedAt: 1677005226624,
+    prerenderedAt: 1677009444035,
   };
 })(
   "element",
@@ -702,9 +702,9 @@ export default (function (
   "exempel",
   "Sugar plum sugar plum pie I love gummi bears sweet roll bear claw. Jelly-o dessert cookie powder I love dessert wafer jelly-o candy. Danish ice cream dragée wafer topping topping icing chocolate chupa chups.",
   true,
-  "Tel: 08-555 914 26",
-  "\u002F",
   "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
+  "\u002F",
+  "Tel: 08-555 914 26",
   "\u002Fpages\u002Fexempel",
   "pages",
   "Exempel",

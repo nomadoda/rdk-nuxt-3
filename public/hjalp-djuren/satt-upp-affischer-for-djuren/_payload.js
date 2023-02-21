@@ -218,78 +218,6 @@ export default (function (
         _file: "hjalp-djuren\u002Fsatt-upp-affischer-for-djuren.md",
         _extension: n,
       },
-      "meta-block-foralder-eller-pedagog": {
-        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
-        _dir: o,
-        _draft: d,
-        _partial: d,
-        _locale: f,
-        _empty: d,
-        title: "Förälder eller Pedagog?",
-        description:
-          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-        excerpt: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: e,
-                  props: {},
-                  children: [{ type: b, value: F }],
-                },
-                { type: b, value: i },
-                {
-                  type: a,
-                  tag: e,
-                  props: {},
-                  children: [{ type: b, value: G }],
-                },
-              ],
-            },
-            { type: a, tag: c, props: {}, children: [{ type: b, value: H }] },
-          ],
-        },
-        displayTitle: s,
-        editorDescription: "Footer-block för vuxna och pedagoger",
-        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
-        body: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: e,
-                  props: {},
-                  children: [{ type: b, value: F }],
-                },
-                { type: b, value: i },
-                {
-                  type: a,
-                  tag: e,
-                  props: {},
-                  children: [{ type: b, value: G }],
-                },
-              ],
-            },
-            { type: a, tag: c, props: {}, children: [{ type: b, value: H }] },
-          ],
-          toc: { title: f, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:block:foralder-eller-pedagog.md",
-        _source: m,
-        _file: "block\u002Fforalder-eller-pedagog.md",
-        _extension: n,
-      },
       "meta-block-footer-djurens-ratt": {
         _path: "\u002Fblock\u002Ffooter-djurens-ratt",
         _dir: o,
@@ -312,19 +240,19 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: I }],
+                  children: [{ type: b, value: F }],
                 },
                 { type: b, value: i },
                 {
                   type: a,
                   tag: j,
-                  props: { href: J, rel: [k] },
+                  props: { href: G, rel: [k] },
                   children: [
                     {
                       type: a,
                       tag: e,
                       props: {},
-                      children: [{ type: b, value: K }],
+                      children: [{ type: b, value: H }],
                     },
                   ],
                 },
@@ -332,10 +260,10 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: L }],
+                  children: [{ type: b, value: I }],
                 },
                 { type: a, tag: p, props: {}, children: [] },
-                { type: b, value: M },
+                { type: b, value: J },
               ],
             },
             {
@@ -347,7 +275,7 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: N }],
+                  children: [{ type: b, value: K }],
                 },
               ],
             },
@@ -371,19 +299,19 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: I }],
+                  children: [{ type: b, value: F }],
                 },
                 { type: b, value: i },
                 {
                   type: a,
                   tag: j,
-                  props: { href: J, rel: [k] },
+                  props: { href: G, rel: [k] },
                   children: [
                     {
                       type: a,
                       tag: e,
                       props: {},
-                      children: [{ type: b, value: K }],
+                      children: [{ type: b, value: H }],
                     },
                   ],
                 },
@@ -391,10 +319,10 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: L }],
+                  children: [{ type: b, value: I }],
                 },
                 { type: a, tag: p, props: {}, children: [] },
-                { type: b, value: M },
+                { type: b, value: J },
               ],
             },
             {
@@ -406,7 +334,7 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: N }],
+                  children: [{ type: b, value: K }],
                 },
               ],
             },
@@ -419,6 +347,110 @@ export default (function (
         _file: "block\u002Ffooter-djurens-ratt.md",
         _extension: n,
       },
+      "meta-block-foralder-eller-pedagog": {
+        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
+        _dir: o,
+        _draft: d,
+        _partial: d,
+        _locale: f,
+        _empty: d,
+        title: "Förälder eller Pedagog?",
+        description:
+          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+        excerpt: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: e,
+                  props: {},
+                  children: [{ type: b, value: L }],
+                },
+                { type: b, value: i },
+                {
+                  type: a,
+                  tag: e,
+                  props: {},
+                  children: [{ type: b, value: M }],
+                },
+              ],
+            },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: N }] },
+          ],
+        },
+        displayTitle: s,
+        editorDescription: "Footer-block för vuxna och pedagoger",
+        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
+        body: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: e,
+                  props: {},
+                  children: [{ type: b, value: L }],
+                },
+                { type: b, value: i },
+                {
+                  type: a,
+                  tag: e,
+                  props: {},
+                  children: [{ type: b, value: M }],
+                },
+              ],
+            },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: N }] },
+          ],
+          toc: { title: f, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:foralder-eller-pedagog.md",
+        _source: m,
+        _file: "block\u002Fforalder-eller-pedagog.md",
+        _extension: n,
+      },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: o,
+        _draft: d,
+        _partial: d,
+        _locale: f,
+        _empty: d,
+        title: "footer-top",
+        description: t,
+        excerpt: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: t }] },
+          ],
+        },
+        displayTitle: d,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: u,
+        url: f,
+        body: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: t }] },
+          ],
+          toc: { title: f, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-top.md",
+        _source: m,
+        _file: "block\u002Ffooter-top.md",
+        _extension: n,
+      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
         _dir: o,
@@ -427,11 +459,11 @@ export default (function (
         _locale: f,
         _empty: d,
         title: "Footer Text",
-        description: t,
+        description: v,
         excerpt: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: t }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
             {
               type: a,
               tag: c,
@@ -475,7 +507,7 @@ export default (function (
         body: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: t }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
             {
               type: a,
               tag: c,
@@ -519,36 +551,37 @@ export default (function (
         _file: "block\u002Ffooter-text.md",
         _extension: n,
       },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
+      $IwTD5indAh: {
+        _path: "\u002Fblock\u002Ffooter-image",
         _dir: o,
         _draft: d,
         _partial: d,
         _locale: f,
         _empty: d,
-        title: "footer-top",
-        description: v,
+        title: "footer-image",
+        description: f,
         excerpt: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
+            { type: a, tag: V, props: { alt: f, src: W }, children: [] },
           ],
         },
         displayTitle: d,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        editorDescription:
+          "Bild som visas längst upp i footern\u002F över footern",
         linkText: u,
         url: f,
         body: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
+            { type: a, tag: V, props: { alt: f, src: W }, children: [] },
           ],
           toc: { title: f, searchDepth: h, depth: h, links: [] },
         },
         _type: l,
-        _id: "content:block:footer-top.md",
+        _id: "content:block:footer-image.md",
         _source: m,
-        _file: "block\u002Ffooter-top.md",
+        _file: "block\u002Ffooter-image.md",
         _extension: n,
       },
       "meta-block-radda-djuren-klubben": {
@@ -573,37 +606,17 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: V }],
+                  children: [{ type: b, value: X }],
                 },
-                { type: b, value: W },
+                { type: b, value: Y },
               ],
             },
-            { type: a, tag: c, props: {}, children: [{ type: b, value: X }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: Z }] },
             {
               type: a,
               tag: c,
               props: {},
               children: [
-                {
-                  type: a,
-                  tag: e,
-                  props: {},
-                  children: [{ type: b, value: Y }],
-                },
-                { type: b, value: i },
-                {
-                  type: a,
-                  tag: j,
-                  props: { href: Z, rel: [k] },
-                  children: [
-                    {
-                      type: a,
-                      tag: e,
-                      props: {},
-                      children: [{ type: b, value: q }],
-                    },
-                  ],
-                },
                 {
                   type: a,
                   tag: e,
@@ -614,7 +627,27 @@ export default (function (
                 {
                   type: a,
                   tag: j,
-                  props: { href: $, rel: [k], title: aa },
+                  props: { href: $, rel: [k] },
+                  children: [
+                    {
+                      type: a,
+                      tag: e,
+                      props: {},
+                      children: [{ type: b, value: q }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: e,
+                  props: {},
+                  children: [{ type: b, value: aa }],
+                },
+                { type: b, value: i },
+                {
+                  type: a,
+                  tag: j,
+                  props: { href: ab, rel: [k], title: ac },
                   children: [
                     {
                       type: a,
@@ -629,13 +662,13 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: ab }],
+                  children: [{ type: b, value: ad }],
                 },
                 { type: b, value: i },
                 {
                   type: a,
                   tag: j,
-                  props: { href: ac, rel: [k], title: ad },
+                  props: { href: ae, rel: [k], title: af },
                   children: [
                     {
                       type: a,
@@ -667,37 +700,17 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: V }],
+                  children: [{ type: b, value: X }],
                 },
-                { type: b, value: W },
+                { type: b, value: Y },
               ],
             },
-            { type: a, tag: c, props: {}, children: [{ type: b, value: X }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: Z }] },
             {
               type: a,
               tag: c,
               props: {},
               children: [
-                {
-                  type: a,
-                  tag: e,
-                  props: {},
-                  children: [{ type: b, value: Y }],
-                },
-                { type: b, value: i },
-                {
-                  type: a,
-                  tag: j,
-                  props: { href: Z, rel: [k] },
-                  children: [
-                    {
-                      type: a,
-                      tag: e,
-                      props: {},
-                      children: [{ type: b, value: q }],
-                    },
-                  ],
-                },
                 {
                   type: a,
                   tag: e,
@@ -708,7 +721,27 @@ export default (function (
                 {
                   type: a,
                   tag: j,
-                  props: { href: $, rel: [k], title: aa },
+                  props: { href: $, rel: [k] },
+                  children: [
+                    {
+                      type: a,
+                      tag: e,
+                      props: {},
+                      children: [{ type: b, value: q }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: e,
+                  props: {},
+                  children: [{ type: b, value: aa }],
+                },
+                { type: b, value: i },
+                {
+                  type: a,
+                  tag: j,
+                  props: { href: ab, rel: [k], title: ac },
                   children: [
                     {
                       type: a,
@@ -723,13 +756,13 @@ export default (function (
                   type: a,
                   tag: e,
                   props: {},
-                  children: [{ type: b, value: ab }],
+                  children: [{ type: b, value: ad }],
                 },
                 { type: b, value: i },
                 {
                   type: a,
                   tag: j,
-                  props: { href: ac, rel: [k], title: ad },
+                  props: { href: ae, rel: [k], title: af },
                   children: [
                     {
                       type: a,
@@ -750,41 +783,8 @@ export default (function (
         _file: "block\u002Fradda-djuren-klubben.md",
         _extension: n,
       },
-      $IwTD5indAh: {
-        _path: "\u002Fblock\u002Ffooter-image",
-        _dir: o,
-        _draft: d,
-        _partial: d,
-        _locale: f,
-        _empty: d,
-        title: "footer-image",
-        description: f,
-        excerpt: {
-          type: g,
-          children: [
-            { type: a, tag: ae, props: { alt: f, src: af }, children: [] },
-          ],
-        },
-        displayTitle: d,
-        editorDescription:
-          "Bild som visas längst upp i footern\u002F över footern",
-        linkText: u,
-        url: f,
-        body: {
-          type: g,
-          children: [
-            { type: a, tag: ae, props: { alt: f, src: af }, children: [] },
-          ],
-          toc: { title: f, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:block:footer-image.md",
-        _source: m,
-        _file: "block\u002Ffooter-image.md",
-        _extension: n,
-      },
     },
-    prerenderedAt: 1677005223351,
+    prerenderedAt: 1677009440799,
   };
 })(
   "element",
@@ -806,9 +806,9 @@ export default (function (
   "@raddadjurenklubben",
   "Såhär gör du:",
   true,
-  "Tel: 08-555 914 26",
-  "\u002F",
   "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
+  "\u002F",
+  "Tel: 08-555 914 26",
   "\u002Fhjalp-djuren\u002Fsatt-upp-affischer-for-djuren",
   "Sätt upp affischer för djuren",
   "1. Hitta ett stort papper att använda. Du kan till exempel återanvända baksidan på gamla affischer, sådana som sitter kvar på anslagstavlorna efter att det de annonserat för är över.",
@@ -818,15 +818,15 @@ export default (function (
   "5. Förhoppningsvis får dina affischer många människor att tänka till kring djurens situation och hur vi behandlar dem!",
   "em",
   "Bild: Santirat Praeknokkaew\u002FShutterstock",
-  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
-  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "Rädda Djuren-klubben samarbetar med",
   "https:\u002F\u002Fwww.djurensratt.se\u002F",
   "Djurens Rätt",
   ".",
   "\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
   "Vi står alltid på djurens sida.",
+  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
+  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",
@@ -834,6 +834,8 @@ export default (function (
   "\nBox 7023, 402 31 Göteborg",
   "Chefredaktör: Åsa Björk",
   "\nAnsvarig utgivare: Benny Andersson",
+  "img",
+  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra!",
   " 🐶🦁🐰",
   "Vi vill sprida information om djur, hur de har det, deras rättigheter och om hur du kan hjälpa djuren på enkla sätt. Det gör vi genom den här hemsidan och genom vår egen tidning Klubbnytt som våra medlemmar får fem gånger per år.",
@@ -844,7 +846,5 @@ export default (function (
   "Facebook",
   "och TikTok",
   "https:\u002F\u002Fwww.tiktok.com\u002F@raddadjurenklubben?",
-  "TikTok",
-  "img",
-  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg"
+  "TikTok"
 );

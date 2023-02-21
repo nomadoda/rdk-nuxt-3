@@ -268,207 +268,6 @@ export default (function (
         _file: "block\u002Fradda-djuren-klubben.md",
         _extension: p,
       },
-      "meta-block-footer-djurens-ratt": {
-        _path: "\u002Fblock\u002Ffooter-djurens-ratt",
-        _dir: l,
-        _draft: e,
-        _partial: e,
-        _locale: f,
-        _empty: e,
-        title: "Footer Djurens Ratt",
-        description:
-          "Rädda Djuren-klubben samarbetar med Djurens Rätt.\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
-        excerpt: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: G }],
-                },
-                { type: b, value: h },
-                {
-                  type: a,
-                  tag: j,
-                  props: { href: H, rel: [k] },
-                  children: [
-                    {
-                      type: a,
-                      tag: c,
-                      props: {},
-                      children: [{ type: b, value: I }],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: J }],
-                },
-                { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: K },
-              ],
-            },
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: L }],
-                },
-              ],
-            },
-          ],
-        },
-        displayTitle: e,
-        editorDescription: "Footer-block Om Djurens Rätt",
-        link: {
-          url: "https:\u002F\u002Fwww.djurensratt.se\u002Fom-djurens-ratt",
-          linkText: "Om Djurens Rätt",
-        },
-        body: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: G }],
-                },
-                { type: b, value: h },
-                {
-                  type: a,
-                  tag: j,
-                  props: { href: H, rel: [k] },
-                  children: [
-                    {
-                      type: a,
-                      tag: c,
-                      props: {},
-                      children: [{ type: b, value: I }],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: J }],
-                },
-                { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: K },
-              ],
-            },
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: L }],
-                },
-              ],
-            },
-          ],
-          toc: { title: f, searchDepth: i, depth: i, links: [] },
-        },
-        _type: n,
-        _id: "content:block:footer-djurens-ratt.md",
-        _source: o,
-        _file: "block\u002Ffooter-djurens-ratt.md",
-        _extension: p,
-      },
-      "meta-block-foralder-eller-pedagog": {
-        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
-        _dir: l,
-        _draft: e,
-        _partial: e,
-        _locale: f,
-        _empty: e,
-        title: "Förälder eller Pedagog?",
-        description:
-          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-        excerpt: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: M }],
-                },
-                { type: b, value: h },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: N }],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: O }] },
-          ],
-        },
-        displayTitle: F,
-        editorDescription: "Footer-block för vuxna och pedagoger",
-        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
-        body: {
-          type: g,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: M }],
-                },
-                { type: b, value: h },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: N }],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: O }] },
-          ],
-          toc: { title: f, searchDepth: i, depth: i, links: [] },
-        },
-        _type: n,
-        _id: "content:block:foralder-eller-pedagog.md",
-        _source: o,
-        _file: "block\u002Fforalder-eller-pedagog.md",
-        _extension: p,
-      },
       $raOELVPXjJ: {
         _path: "\u002Fblock\u002Ffooter-top",
         _dir: l,
@@ -499,6 +298,207 @@ export default (function (
         _id: "content:block:footer-top.md",
         _source: o,
         _file: "block\u002Ffooter-top.md",
+        _extension: p,
+      },
+      "meta-block-foralder-eller-pedagog": {
+        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
+        _dir: l,
+        _draft: e,
+        _partial: e,
+        _locale: f,
+        _empty: e,
+        title: "Förälder eller Pedagog?",
+        description:
+          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+        excerpt: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: G }],
+                },
+                { type: b, value: h },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: H }],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: I }] },
+          ],
+        },
+        displayTitle: F,
+        editorDescription: "Footer-block för vuxna och pedagoger",
+        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
+        body: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: G }],
+                },
+                { type: b, value: h },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: H }],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: I }] },
+          ],
+          toc: { title: f, searchDepth: i, depth: i, links: [] },
+        },
+        _type: n,
+        _id: "content:block:foralder-eller-pedagog.md",
+        _source: o,
+        _file: "block\u002Fforalder-eller-pedagog.md",
+        _extension: p,
+      },
+      "meta-block-footer-djurens-ratt": {
+        _path: "\u002Fblock\u002Ffooter-djurens-ratt",
+        _dir: l,
+        _draft: e,
+        _partial: e,
+        _locale: f,
+        _empty: e,
+        title: "Footer Djurens Ratt",
+        description:
+          "Rädda Djuren-klubben samarbetar med Djurens Rätt.\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
+        excerpt: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: J }],
+                },
+                { type: b, value: h },
+                {
+                  type: a,
+                  tag: j,
+                  props: { href: K, rel: [k] },
+                  children: [
+                    {
+                      type: a,
+                      tag: c,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: M }],
+                },
+                { type: a, tag: q, props: {}, children: [] },
+                { type: b, value: N },
+              ],
+            },
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: O }],
+                },
+              ],
+            },
+          ],
+        },
+        displayTitle: e,
+        editorDescription: "Footer-block Om Djurens Rätt",
+        link: {
+          url: "https:\u002F\u002Fwww.djurensratt.se\u002Fom-djurens-ratt",
+          linkText: "Om Djurens Rätt",
+        },
+        body: {
+          type: g,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: J }],
+                },
+                { type: b, value: h },
+                {
+                  type: a,
+                  tag: j,
+                  props: { href: K, rel: [k] },
+                  children: [
+                    {
+                      type: a,
+                      tag: c,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: M }],
+                },
+                { type: a, tag: q, props: {}, children: [] },
+                { type: b, value: N },
+              ],
+            },
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: O }],
+                },
+              ],
+            },
+          ],
+          toc: { title: f, searchDepth: i, depth: i, links: [] },
+        },
+        _type: n,
+        _id: "content:block:footer-djurens-ratt.md",
+        _source: o,
+        _file: "block\u002Ffooter-djurens-ratt.md",
         _extension: p,
       },
       $u7UyWH2UUB: {
@@ -637,7 +637,7 @@ export default (function (
       "/vego/tips/borja-med-vego": Y,
       "/vego/tips/borja-med-vego-parent": Y,
     },
-    prerenderedAt: 1677005226009,
+    prerenderedAt: 1677009443408,
   };
 })(
   "element",
@@ -672,15 +672,15 @@ export default (function (
   "https:\u002F\u002Fwww.tiktok.com\u002F@raddadjurenklubben?",
   "TikTok",
   true,
+  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
+  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "Rädda Djuren-klubben samarbetar med",
   "https:\u002F\u002Fwww.djurensratt.se\u002F",
   "Djurens Rätt",
   ".",
   "\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
   "Vi står alltid på djurens sida.",
-  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
-  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",

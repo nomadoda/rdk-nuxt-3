@@ -4252,332 +4252,36 @@ export default (function (
           _extension: s,
         },
       ],
-      "meta-block-footer-djurens-ratt": {
-        _path: "\u002Fblock\u002Ffooter-djurens-ratt",
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
         _dir: K,
         _draft: g,
         _partial: g,
         _locale: h,
         _empty: g,
-        title: "Footer Djurens Ratt",
-        description:
-          "Rädda Djuren-klubben samarbetar med Djurens Rätt.\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
+        title: "footer-top",
+        description: bT,
         excerpt: {
           type: j,
           children: [
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fw }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fx, rel: [u] },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: fy }],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: x }],
-                },
-                { type: a, tag: L, props: {}, children: [] },
-                { type: b, value: fz },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fA }],
-                },
-              ],
-            },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: bT }] },
           ],
         },
         displayTitle: g,
-        editorDescription: "Footer-block Om Djurens Rätt",
-        link: {
-          url: "https:\u002F\u002Fwww.djurensratt.se\u002Fom-djurens-ratt",
-          linkText: "Om Djurens Rätt",
-        },
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: bU,
+        url: h,
         body: {
           type: j,
           children: [
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fw }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fx, rel: [u] },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: fy }],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: x }],
-                },
-                { type: a, tag: L, props: {}, children: [] },
-                { type: b, value: fz },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fA }],
-                },
-              ],
-            },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: bT }] },
           ],
           toc: { title: h, searchDepth: e, depth: e, links: [] },
         },
         _type: q,
-        _id: "content:block:footer-djurens-ratt.md",
+        _id: "content:block:footer-top.md",
         _source: r,
-        _file: "block\u002Ffooter-djurens-ratt.md",
-        _extension: s,
-      },
-      "meta-block-radda-djuren-klubben": {
-        _path: "\u002Fblock\u002Fradda-djuren-klubben",
-        _dir: K,
-        _draft: g,
-        _partial: g,
-        _locale: h,
-        _empty: g,
-        title: "Rädda Djuren-klubben",
-        description:
-          "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra! 🐶🦁🐰",
-        excerpt: {
-          type: j,
-          children: [
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fB }],
-                },
-                { type: b, value: fC },
-              ],
-            },
-            { type: a, tag: c, props: {}, children: [{ type: b, value: fD }] },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fE }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fF, rel: [u] },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: M }],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fG }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fH, rel: [u], title: aa },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: M }],
-                    },
-                  ],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fI }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fJ, rel: [u], title: ab },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: M }],
-                    },
-                  ],
-                },
-              ],
-            },
-          ],
-        },
-        displayTitle: k,
-        editorDescription: "footerblock om RDK",
-        link: {
-          url: "\u002Fvuxen-eller-pedagog\u002Fom-radda-djuren-klubben",
-          linkText: "Om oss",
-        },
-        body: {
-          type: j,
-          children: [
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fB }],
-                },
-                { type: b, value: fC },
-              ],
-            },
-            { type: a, tag: c, props: {}, children: [{ type: b, value: fD }] },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fE }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fF, rel: [u] },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: M }],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fG }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fH, rel: [u], title: aa },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: M }],
-                    },
-                  ],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: fI }],
-                },
-                { type: b, value: v },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fJ, rel: [u], title: ab },
-                  children: [
-                    {
-                      type: a,
-                      tag: f,
-                      props: {},
-                      children: [{ type: b, value: M }],
-                    },
-                  ],
-                },
-              ],
-            },
-          ],
-          toc: { title: h, searchDepth: e, depth: e, links: [] },
-        },
-        _type: q,
-        _id: "content:block:radda-djuren-klubben.md",
-        _source: r,
-        _file: "block\u002Fradda-djuren-klubben.md",
+        _file: "block\u002Ffooter-top.md",
         _extension: s,
       },
       $IwTD5indAh: {
@@ -4592,18 +4296,18 @@ export default (function (
         excerpt: {
           type: j,
           children: [
-            { type: a, tag: J, props: { alt: h, src: fK }, children: [] },
+            { type: a, tag: J, props: { alt: h, src: fw }, children: [] },
           ],
         },
         displayTitle: g,
         editorDescription:
           "Bild som visas längst upp i footern\u002F över footern",
-        linkText: bT,
+        linkText: bU,
         url: h,
         body: {
           type: j,
           children: [
-            { type: a, tag: J, props: { alt: h, src: fK }, children: [] },
+            { type: a, tag: J, props: { alt: h, src: fw }, children: [] },
           ],
           toc: { title: h, searchDepth: e, depth: e, links: [] },
         },
@@ -4611,138 +4315,6 @@ export default (function (
         _id: "content:block:footer-image.md",
         _source: r,
         _file: "block\u002Ffooter-image.md",
-        _extension: s,
-      },
-      $u7UyWH2UUB: {
-        _path: "\u002Fblock\u002Ffooter-text",
-        _dir: K,
-        _draft: g,
-        _partial: g,
-        _locale: h,
-        _empty: g,
-        title: "Footer Text",
-        description: bU,
-        excerpt: {
-          type: j,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: bU }] },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: fL },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fM },
-                  children: [{ type: b, value: fN }],
-                },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: fO },
-                { type: a, tag: L, props: {}, children: [] },
-                { type: b, value: fP },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: fQ },
-                { type: a, tag: L, props: {}, children: [] },
-                { type: b, value: fR },
-              ],
-            },
-          ],
-        },
-        displayTitle: g,
-        editorDescription: "Footer-text med adress, utgivare och chefsredaktör",
-        linkText: bT,
-        url: h,
-        body: {
-          type: j,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: bU }] },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: fL },
-                {
-                  type: a,
-                  tag: p,
-                  props: { href: fM },
-                  children: [{ type: b, value: fN }],
-                },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: fO },
-                { type: a, tag: L, props: {}, children: [] },
-                { type: b, value: fP },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: fQ },
-                { type: a, tag: L, props: {}, children: [] },
-                { type: b, value: fR },
-              ],
-            },
-          ],
-          toc: { title: h, searchDepth: e, depth: e, links: [] },
-        },
-        _type: q,
-        _id: "content:block:footer-text.md",
-        _source: r,
-        _file: "block\u002Ffooter-text.md",
-        _extension: s,
-      },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
-        _dir: K,
-        _draft: g,
-        _partial: g,
-        _locale: h,
-        _empty: g,
-        title: "footer-top",
-        description: bV,
-        excerpt: {
-          type: j,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: bV }] },
-          ],
-        },
-        displayTitle: g,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
-        linkText: bT,
-        url: h,
-        body: {
-          type: j,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: bV }] },
-          ],
-          toc: { title: h, searchDepth: e, depth: e, links: [] },
-        },
-        _type: q,
-        _id: "content:block:footer-top.md",
-        _source: r,
-        _file: "block\u002Ffooter-top.md",
         _extension: s,
       },
       "/lar-dig-mer/djurs-tankar-och-kanslor": {
@@ -4954,6 +4526,434 @@ export default (function (
         _file: dN,
         _extension: s,
       },
+      "meta-block-radda-djuren-klubben": {
+        _path: "\u002Fblock\u002Fradda-djuren-klubben",
+        _dir: K,
+        _draft: g,
+        _partial: g,
+        _locale: h,
+        _empty: g,
+        title: "Rädda Djuren-klubben",
+        description:
+          "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra! 🐶🦁🐰",
+        excerpt: {
+          type: j,
+          children: [
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fx }],
+                },
+                { type: b, value: fy },
+              ],
+            },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: fz }] },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fA }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fB, rel: [u] },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fC }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fD, rel: [u], title: aa },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fE }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fF, rel: [u], title: ab },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+              ],
+            },
+          ],
+        },
+        displayTitle: k,
+        editorDescription: "footerblock om RDK",
+        link: {
+          url: "\u002Fvuxen-eller-pedagog\u002Fom-radda-djuren-klubben",
+          linkText: "Om oss",
+        },
+        body: {
+          type: j,
+          children: [
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fx }],
+                },
+                { type: b, value: fy },
+              ],
+            },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: fz }] },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fA }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fB, rel: [u] },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fC }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fD, rel: [u], title: aa },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fE }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fF, rel: [u], title: ab },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: L }],
+                    },
+                  ],
+                },
+              ],
+            },
+          ],
+          toc: { title: h, searchDepth: e, depth: e, links: [] },
+        },
+        _type: q,
+        _id: "content:block:radda-djuren-klubben.md",
+        _source: r,
+        _file: "block\u002Fradda-djuren-klubben.md",
+        _extension: s,
+      },
+      "meta-block-footer-djurens-ratt": {
+        _path: "\u002Fblock\u002Ffooter-djurens-ratt",
+        _dir: K,
+        _draft: g,
+        _partial: g,
+        _locale: h,
+        _empty: g,
+        title: "Footer Djurens Ratt",
+        description:
+          "Rädda Djuren-klubben samarbetar med Djurens Rätt.\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
+        excerpt: {
+          type: j,
+          children: [
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fG }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fH, rel: [u] },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: fI }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: x }],
+                },
+                { type: a, tag: M, props: {}, children: [] },
+                { type: b, value: fJ },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fK }],
+                },
+              ],
+            },
+          ],
+        },
+        displayTitle: g,
+        editorDescription: "Footer-block Om Djurens Rätt",
+        link: {
+          url: "https:\u002F\u002Fwww.djurensratt.se\u002Fom-djurens-ratt",
+          linkText: "Om Djurens Rätt",
+        },
+        body: {
+          type: j,
+          children: [
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fG }],
+                },
+                { type: b, value: v },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fH, rel: [u] },
+                  children: [
+                    {
+                      type: a,
+                      tag: f,
+                      props: {},
+                      children: [{ type: b, value: fI }],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: x }],
+                },
+                { type: a, tag: M, props: {}, children: [] },
+                { type: b, value: fJ },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: fK }],
+                },
+              ],
+            },
+          ],
+          toc: { title: h, searchDepth: e, depth: e, links: [] },
+        },
+        _type: q,
+        _id: "content:block:footer-djurens-ratt.md",
+        _source: r,
+        _file: "block\u002Ffooter-djurens-ratt.md",
+        _extension: s,
+      },
+      $u7UyWH2UUB: {
+        _path: "\u002Fblock\u002Ffooter-text",
+        _dir: K,
+        _draft: g,
+        _partial: g,
+        _locale: h,
+        _empty: g,
+        title: "Footer Text",
+        description: bV,
+        excerpt: {
+          type: j,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: bV }] },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: fL },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fM },
+                  children: [{ type: b, value: fN }],
+                },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: fO },
+                { type: a, tag: M, props: {}, children: [] },
+                { type: b, value: fP },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: fQ },
+                { type: a, tag: M, props: {}, children: [] },
+                { type: b, value: fR },
+              ],
+            },
+          ],
+        },
+        displayTitle: g,
+        editorDescription: "Footer-text med adress, utgivare och chefsredaktör",
+        linkText: bU,
+        url: h,
+        body: {
+          type: j,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: bV }] },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: fL },
+                {
+                  type: a,
+                  tag: p,
+                  props: { href: fM },
+                  children: [{ type: b, value: fN }],
+                },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: fO },
+                { type: a, tag: M, props: {}, children: [] },
+                { type: b, value: fP },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: fQ },
+                { type: a, tag: M, props: {}, children: [] },
+                { type: b, value: fR },
+              ],
+            },
+          ],
+          toc: { title: h, searchDepth: e, depth: e, links: [] },
+        },
+        _type: q,
+        _id: "content:block:footer-text.md",
+        _source: r,
+        _file: "block\u002Ffooter-text.md",
+        _extension: s,
+      },
       "meta-block-foralder-eller-pedagog": {
         _path: "\u002Fblock\u002Fforalder-eller-pedagog",
         _dir: K,
@@ -5027,7 +5027,7 @@ export default (function (
         _extension: s,
       },
     },
-    prerenderedAt: 1677005221749,
+    prerenderedAt: 1677009439267,
   };
 })(
   "element",
@@ -5067,8 +5067,8 @@ export default (function (
   "Vem kan ha ont?",
   "img",
   "block",
-  "br",
   "@raddadjurenklubben",
+  "br",
   "Det är svårt att bevisa om någon har ett medvetande för att medvetandet bara är tillgängligt för den som har det och för att det inte finns någon enighet om vad ett medvetande egentligen är. Det är ändå självklart för många människor, forskare och lagstiftare att djur är medvetna.",
   "Självmedvetande – att förstå att du finns",
   "\nSjälvmedvetande betyder att en är medveten om sig själv som en självständig varelse. Det finns en metod som ofta används för att testa detta, som kallas spegeltestet. Det går ut på att sätta en färgprick i ansiktet på den som ska undersökas och sedan låta djuret se sig själv i en spegel. Om hen undersöker pricken i sitt eget ansikte, istället för i spegeln, ses det som ett tecken på en förståelse för att det är hen själv som avspeglas. Listan på djur som blivit ”godkända” i spegeltestet börjar bli lång, men även om ett djur inte klarar testat betyder det inte att hen inte är självmedveten. Testet är väldigt inriktat på syn, men hos vissa djur är lukt eller andra sinnen mycket viktigare.",
@@ -5183,9 +5183,9 @@ export default (function (
   "Djur är, precis som oss, levande och kännande varelser. Alla som har umgåtts med djur vet att de har sina egna intressen och behov och de kan känna både smärta och glädje, precis som oss. De har känslor som spelar roll för dem. Och om det spelar roll för dem borde det ju spela roll för oss, eller hur?",
   "kändisar-om-varför-de-bryr-sig-om-djuren",
   "Kändisar om varför de bryr sig om djuren",
+  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
   "\u002F",
   "Tel: 08-555 914 26",
-  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
   "I Sverige är det förbjudet att sälja hundar och katter i djuraffären, men det är tillåtet att sälja många andra djur. Det finns ett krav att den som driver djuraffären ska ha en utbildning, men det finns inga krav på att de som arbetar där ska kunna något om djur. Det gör tyvärr att de som jobbar i affären inte alltid tar hand om djuren på rätt sätt eller kan ge köparna i affären rätt råd. Det kan också vara svårt att veta hur djuren haft det innan de kom till affären. Exempelvis hur de föddes upp och varifrån de kommer.",
   "Den okända miljön och alla okända människor som kommer till djuraffären kan vara väldigt stressande för djuren. Det är inte en bra plats för djur och därför tycker inte Rädda Djuren-klubben att några djur ska få säljas i djuraffärer.",
   "Att köpa ett djur från en butik gör också att fler djur föds upp för att säljas. Det finns väldigt många djur som köps utan att människan som köper har tänkt igenom det ordentligt. Det är inte ovanligt att familjer inte kan ha kvar djur av olika anledningar, och därför finns det redan många djur som behöver hem, utan att det föds upp nya djur. Djur som katter, kaniner, gnagare och exotiska djur släpps alltför ofta ut i naturen för att klara sig själva. Tyvärr klarar de sig inte själva i det vilda, och om de inte hittas av en hjälporganisation kan de få det riktigt dåligt och även dö.",
@@ -5376,11 +5376,7 @@ export default (function (
   "Dotter, artist",
   "”Jag bryr mig om djuren för att de besitter kunskap och visdom som vi människor inte har eller glömt för länge sen.”\n",
   "Niki Tsappos, dansare",
-  "Rädda Djuren-klubben samarbetar med",
-  "https:\u002F\u002Fwww.djurensratt.se\u002F",
-  "Djurens Rätt",
-  "\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
-  "Vi står alltid på djurens sida.",
+  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra!",
   " 🐶🦁🐰",
   "Vi vill sprida information om djur, hur de har det, deras rättigheter och om hur du kan hjälpa djuren på enkla sätt. Det gör vi genom den här hemsidan och genom vår egen tidning Klubbnytt som våra medlemmar får fem gånger per år.",
@@ -5390,7 +5386,11 @@ export default (function (
   "https:\u002F\u002Fwww.facebook.com\u002FRaddaDjuren",
   "och TikTok",
   "https:\u002F\u002Fwww.tiktok.com\u002F@raddadjurenklubben?",
-  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
+  "Rädda Djuren-klubben samarbetar med",
+  "https:\u002F\u002Fwww.djurensratt.se\u002F",
+  "Djurens Rätt",
+  "\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
+  "Vi står alltid på djurens sida.",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",

@@ -623,6 +623,39 @@ export default (function (
         _file: "block\u002Ffooter-top.md",
         _extension: n,
       },
+      $IwTD5indAh: {
+        _path: "\u002Fblock\u002Ffooter-image",
+        _dir: o,
+        _draft: e,
+        _partial: e,
+        _locale: f,
+        _empty: e,
+        title: "footer-image",
+        description: f,
+        excerpt: {
+          type: g,
+          children: [
+            { type: a, tag: Z, props: { alt: f, src: _ }, children: [] },
+          ],
+        },
+        displayTitle: e,
+        editorDescription:
+          "Bild som visas längst upp i footern\u002F över footern",
+        linkText: v,
+        url: f,
+        body: {
+          type: g,
+          children: [
+            { type: a, tag: Z, props: { alt: f, src: _ }, children: [] },
+          ],
+          toc: { title: f, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-image.md",
+        _source: m,
+        _file: "block\u002Ffooter-image.md",
+        _extension: n,
+      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
         _dir: o,
@@ -641,23 +674,13 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: Z },
+                { type: b, value: $ },
                 {
                   type: a,
                   tag: i,
-                  props: { href: _ },
-                  children: [{ type: b, value: $ }],
+                  props: { href: aa },
+                  children: [{ type: b, value: ab }],
                 },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: aa },
-                { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: ab },
               ],
             },
             {
@@ -668,6 +691,16 @@ export default (function (
                 { type: b, value: ac },
                 { type: a, tag: q, props: {}, children: [] },
                 { type: b, value: ad },
+              ],
+            },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: ae },
+                { type: a, tag: q, props: {}, children: [] },
+                { type: b, value: af },
               ],
             },
           ],
@@ -685,23 +718,13 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: Z },
+                { type: b, value: $ },
                 {
                   type: a,
                   tag: i,
-                  props: { href: _ },
-                  children: [{ type: b, value: $ }],
+                  props: { href: aa },
+                  children: [{ type: b, value: ab }],
                 },
-              ],
-            },
-            {
-              type: a,
-              tag: c,
-              props: {},
-              children: [
-                { type: b, value: aa },
-                { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: ab },
               ],
             },
             {
@@ -714,6 +737,16 @@ export default (function (
                 { type: b, value: ad },
               ],
             },
+            {
+              type: a,
+              tag: c,
+              props: {},
+              children: [
+                { type: b, value: ae },
+                { type: a, tag: q, props: {}, children: [] },
+                { type: b, value: af },
+              ],
+            },
           ],
           toc: { title: f, searchDepth: h, depth: h, links: [] },
         },
@@ -723,41 +756,8 @@ export default (function (
         _file: "block\u002Ffooter-text.md",
         _extension: n,
       },
-      $IwTD5indAh: {
-        _path: "\u002Fblock\u002Ffooter-image",
-        _dir: o,
-        _draft: e,
-        _partial: e,
-        _locale: f,
-        _empty: e,
-        title: "footer-image",
-        description: f,
-        excerpt: {
-          type: g,
-          children: [
-            { type: a, tag: ae, props: { alt: f, src: af }, children: [] },
-          ],
-        },
-        displayTitle: e,
-        editorDescription:
-          "Bild som visas längst upp i footern\u002F över footern",
-        linkText: v,
-        url: f,
-        body: {
-          type: g,
-          children: [
-            { type: a, tag: ae, props: { alt: f, src: af }, children: [] },
-          ],
-          toc: { title: f, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:block:footer-image.md",
-        _source: m,
-        _file: "block\u002Ffooter-image.md",
-        _extension: n,
-      },
     },
-    prerenderedAt: 1677005223855,
+    prerenderedAt: 1677009441319,
   };
 })(
   "element",
@@ -811,13 +811,13 @@ export default (function (
   "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
   "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
   "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
+  "img",
+  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",
   "Post: Djurens Rätt, Rädda Djuren-klubben,",
   "\nBox 7023, 402 31 Göteborg",
   "Chefredaktör: Åsa Björk",
-  "\nAnsvarig utgivare: Benny Andersson",
-  "img",
-  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg"
+  "\nAnsvarig utgivare: Benny Andersson"
 );

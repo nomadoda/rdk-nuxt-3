@@ -52,33 +52,6 @@ export default (function (
 ) {
   return {
     data: {
-      $ljRuZKK0Od: {
-        _path: "\u002Fportal-page\u002Flar-dig-mer",
-        _dir: "portal-page",
-        _draft: d,
-        _partial: d,
-        _locale: f,
-        _empty: r,
-        title: "Djuren i samhället",
-        description: f,
-        excerpt: { type: g, children: [] },
-        slug: "lar-dig-mer",
-        preamble:
-          "Artiklar om vårt samhälle och hur vi människor behandlar djuren",
-        links: null,
-        metadescription:
-          "Rädda Djuren-klubben samarbetar med Djurens Rätt och tillsammans gör vi skillnad för djuren. Sveriges största barnklubb. ",
-        body: {
-          type: g,
-          children: [],
-          toc: { title: f, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:portal-page:lar-dig-mer.md",
-        _source: m,
-        _file: "portal-page\u002Flar-dig-mer.md",
-        _extension: n,
-      },
       "meta-block-radda-djuren-klubben": {
         _path: "\u002Fblock\u002Fradda-djuren-klubben",
         _dir: o,
@@ -479,36 +452,31 @@ export default (function (
         _file: "block\u002Fforalder-eller-pedagog.md",
         _extension: n,
       },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
-        _dir: o,
+      $ljRuZKK0Od: {
+        _path: "\u002Fportal-page\u002Flar-dig-mer",
+        _dir: "portal-page",
         _draft: d,
         _partial: d,
         _locale: f,
-        _empty: d,
-        title: "footer-top",
-        description: s,
-        excerpt: {
-          type: g,
-          children: [
-            { type: a, tag: e, props: {}, children: [{ type: b, value: s }] },
-          ],
-        },
-        displayTitle: d,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
-        linkText: t,
-        url: f,
+        _empty: r,
+        title: "Djuren i samhället",
+        description: f,
+        excerpt: { type: g, children: [] },
+        slug: "lar-dig-mer",
+        preamble:
+          "Artiklar om vårt samhälle och hur vi människor behandlar djuren",
+        links: null,
+        metadescription:
+          "Rädda Djuren-klubben samarbetar med Djurens Rätt och tillsammans gör vi skillnad för djuren. Sveriges största barnklubb. ",
         body: {
           type: g,
-          children: [
-            { type: a, tag: e, props: {}, children: [{ type: b, value: s }] },
-          ],
+          children: [],
           toc: { title: f, searchDepth: h, depth: h, links: [] },
         },
         _type: l,
-        _id: "content:block:footer-top.md",
+        _id: "content:portal-page:lar-dig-mer.md",
         _source: m,
-        _file: "block\u002Ffooter-top.md",
+        _file: "portal-page\u002Flar-dig-mer.md",
         _extension: n,
       },
       $u7UyWH2UUB: {
@@ -519,11 +487,11 @@ export default (function (
         _locale: f,
         _empty: d,
         title: "Footer Text",
-        description: u,
+        description: s,
         excerpt: {
           type: g,
           children: [
-            { type: a, tag: e, props: {}, children: [{ type: b, value: u }] },
+            { type: a, tag: e, props: {}, children: [{ type: b, value: s }] },
             {
               type: a,
               tag: e,
@@ -567,7 +535,7 @@ export default (function (
         body: {
           type: g,
           children: [
-            { type: a, tag: e, props: {}, children: [{ type: b, value: u }] },
+            { type: a, tag: e, props: {}, children: [{ type: b, value: s }] },
             {
               type: a,
               tag: e,
@@ -609,6 +577,38 @@ export default (function (
         _id: "content:block:footer-text.md",
         _source: m,
         _file: "block\u002Ffooter-text.md",
+        _extension: n,
+      },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: o,
+        _draft: d,
+        _partial: d,
+        _locale: f,
+        _empty: d,
+        title: "footer-top",
+        description: u,
+        excerpt: {
+          type: g,
+          children: [
+            { type: a, tag: e, props: {}, children: [{ type: b, value: u }] },
+          ],
+        },
+        displayTitle: d,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: t,
+        url: f,
+        body: {
+          type: g,
+          children: [
+            { type: a, tag: e, props: {}, children: [{ type: b, value: u }] },
+          ],
+          toc: { title: f, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-top.md",
+        _source: m,
+        _file: "block\u002Ffooter-top.md",
         _extension: n,
       },
       $IwTD5indAh: {
@@ -707,7 +707,7 @@ export default (function (
         },
       ],
     },
-    prerenderedAt: 1677005220980,
+    prerenderedAt: 1677009438393,
   };
 })(
   "element",
@@ -728,9 +728,9 @@ export default (function (
   "@raddadjurenklubben",
   "br",
   true,
-  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
-  "\u002F",
   "Tel: 08-555 914 26",
+  "\u002F",
+  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
   "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra!",
   " 🐶🦁🐰",
   "Vi vill sprida information om djur, hur de har det, deras rättigheter och om hur du kan hjälpa djuren på enkla sätt. Det gör vi genom den här hemsidan och genom vår egen tidning Klubbnytt som våra medlemmar får fem gånger per år.",

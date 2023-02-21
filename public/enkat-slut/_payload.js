@@ -453,6 +453,38 @@ export default (function (
         _file: "block\u002Ffooter-djurens-ratt.md",
         _extension: n,
       },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: o,
+        _draft: e,
+        _partial: e,
+        _locale: f,
+        _empty: e,
+        title: "footer-top",
+        description: v,
+        excerpt: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
+          ],
+        },
+        displayTitle: e,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: w,
+        url: f,
+        body: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
+          ],
+          toc: { title: f, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-top.md",
+        _source: m,
+        _file: "block\u002Ffooter-top.md",
+        _extension: n,
+      },
       "meta-block-foralder-eller-pedagog": {
         _path: "\u002Fblock\u002Fforalder-eller-pedagog",
         _dir: o,
@@ -525,36 +557,37 @@ export default (function (
         _file: "block\u002Fforalder-eller-pedagog.md",
         _extension: n,
       },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
+      $IwTD5indAh: {
+        _path: "\u002Fblock\u002Ffooter-image",
         _dir: o,
         _draft: e,
         _partial: e,
         _locale: f,
         _empty: e,
-        title: "footer-top",
-        description: v,
+        title: "footer-image",
+        description: f,
         excerpt: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
+            { type: a, tag: X, props: { alt: f, src: Y }, children: [] },
           ],
         },
         displayTitle: e,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        editorDescription:
+          "Bild som visas längst upp i footern\u002F över footern",
         linkText: w,
         url: f,
         body: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
+            { type: a, tag: X, props: { alt: f, src: Y }, children: [] },
           ],
           toc: { title: f, searchDepth: h, depth: h, links: [] },
         },
         _type: l,
-        _id: "content:block:footer-top.md",
+        _id: "content:block:footer-image.md",
         _source: m,
-        _file: "block\u002Ffooter-top.md",
+        _file: "block\u002Ffooter-image.md",
         _extension: n,
       },
       $u7UyWH2UUB: {
@@ -575,7 +608,7 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: X },
+                { type: b, value: Z },
                 {
                   type: a,
                   tag: i,
@@ -589,9 +622,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: Y },
+                { type: b, value: _ },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: Z },
+                { type: b, value: $ },
               ],
             },
             {
@@ -599,9 +632,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: _ },
+                { type: b, value: aa },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: $ },
+                { type: b, value: ab },
               ],
             },
           ],
@@ -619,7 +652,7 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: X },
+                { type: b, value: Z },
                 {
                   type: a,
                   tag: i,
@@ -633,9 +666,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: Y },
+                { type: b, value: _ },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: Z },
+                { type: b, value: $ },
               ],
             },
             {
@@ -643,9 +676,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: _ },
+                { type: b, value: aa },
                 { type: a, tag: q, props: {}, children: [] },
-                { type: b, value: $ },
+                { type: b, value: ab },
               ],
             },
           ],
@@ -657,41 +690,8 @@ export default (function (
         _file: "block\u002Ffooter-text.md",
         _extension: n,
       },
-      $IwTD5indAh: {
-        _path: "\u002Fblock\u002Ffooter-image",
-        _dir: o,
-        _draft: e,
-        _partial: e,
-        _locale: f,
-        _empty: e,
-        title: "footer-image",
-        description: f,
-        excerpt: {
-          type: g,
-          children: [
-            { type: a, tag: aa, props: { alt: f, src: ab }, children: [] },
-          ],
-        },
-        displayTitle: e,
-        editorDescription:
-          "Bild som visas längst upp i footern\u002F över footern",
-        linkText: w,
-        url: f,
-        body: {
-          type: g,
-          children: [
-            { type: a, tag: aa, props: { alt: f, src: ab }, children: [] },
-          ],
-          toc: { title: f, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:block:footer-image.md",
-        _source: m,
-        _file: "block\u002Ffooter-image.md",
-        _extension: n,
-      },
     },
-    prerenderedAt: 1677005223704,
+    prerenderedAt: 1677009441169,
   };
 })(
   "element",
@@ -743,11 +743,11 @@ export default (function (
   "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
   "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
   "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
+  "img",
+  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Epost: ",
   "Post: Djurens Rätt, Rädda Djuren-klubben,",
   "\nBox 7023, 402 31 Göteborg",
   "Chefredaktör: Åsa Björk",
-  "\nAnsvarig utgivare: Benny Andersson",
-  "img",
-  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg"
+  "\nAnsvarig utgivare: Benny Andersson"
 );

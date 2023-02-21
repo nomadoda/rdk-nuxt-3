@@ -670,38 +670,6 @@ export default (function (
         _file: "block\u002Fforalder-eller-pedagog.md",
         _extension: n,
       },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
-        _dir: q,
-        _draft: f,
-        _partial: f,
-        _locale: d,
-        _empty: f,
-        title: "footer-top",
-        description: x,
-        excerpt: {
-          type: h,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
-          ],
-        },
-        displayTitle: f,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
-        linkText: y,
-        url: d,
-        body: {
-          type: h,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
-          ],
-          toc: { title: d, searchDepth: i, depth: i, links: [] },
-        },
-        _type: l,
-        _id: "content:block:footer-top.md",
-        _source: m,
-        _file: "block\u002Ffooter-top.md",
-        _extension: n,
-      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
         _dir: q,
@@ -710,11 +678,11 @@ export default (function (
         _locale: d,
         _empty: f,
         title: "Footer Text",
-        description: z,
+        description: x,
         excerpt: {
           type: h,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: z }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
             {
               type: a,
               tag: c,
@@ -758,7 +726,7 @@ export default (function (
         body: {
           type: h,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: z }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
             {
               type: a,
               tag: c,
@@ -802,6 +770,38 @@ export default (function (
         _file: "block\u002Ffooter-text.md",
         _extension: n,
       },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: q,
+        _draft: f,
+        _partial: f,
+        _locale: d,
+        _empty: f,
+        title: "footer-top",
+        description: z,
+        excerpt: {
+          type: h,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: z }] },
+          ],
+        },
+        displayTitle: f,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: y,
+        url: d,
+        body: {
+          type: h,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: z }] },
+          ],
+          toc: { title: d, searchDepth: i, depth: i, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-top.md",
+        _source: m,
+        _file: "block\u002Ffooter-top.md",
+        _extension: n,
+      },
       $IwTD5indAh: {
         _path: "\u002Fblock\u002Ffooter-image",
         _dir: q,
@@ -836,7 +836,7 @@ export default (function (
         _extension: n,
       },
     },
-    prerenderedAt: 1677005222783,
+    prerenderedAt: 1677009440245,
   };
 })(
   "element",
@@ -862,9 +862,9 @@ export default (function (
   "https:\u002F\u002Fyoutu.be\u002FNaK7WtI-_co?t=25",
   true,
   "Youtube",
-  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
-  "\u002F",
   "Tel: 08-555 914 26",
+  "\u002F",
+  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
   "Vissa sjöhästar har starka lysande färger medan andra har färger som gör att de lätt kan gömma sig i sjögräs.",
   "Här kan du se hur sjöhästar klamrar sig fast i sjögräs för att inte flyta iväg med strömmen.",
   "Sjöhästar har en mun som liknar en snabel, de äter genom att suger i sig smådjur som plankton och kräftdjur.",

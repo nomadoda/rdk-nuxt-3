@@ -512,555 +512,9 @@ export default (function (
         },
         { _path: aA, title: aB, recipeLabels: [r] },
       ],
-      "/vego/recept/vegobullar": {
-        _path: aA,
-        _dir: H,
-        _draft: i,
-        _partial: i,
-        _locale: e,
-        _empty: i,
-        title: aB,
-        description: e,
-        excerpt: {
-          type: o,
-          children: [
-            {
-              type: a,
-              tag: k,
-              props: { id: C },
-              children: [{ type: b, value: y }],
-            },
-            {
-              type: a,
-              tag: l,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: _ }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: $ }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: N }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: aa }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: ab }],
-                },
-              ],
-            },
-            {
-              type: a,
-              tag: k,
-              props: { id: s },
-              children: [{ type: b, value: z }],
-            },
-            {
-              type: a,
-              tag: g,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: ac }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: ad }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: ae }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: af }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: ag }] },
-            {
-              type: a,
-              tag: D,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: d,
-                  props: {},
-                  children: [{ type: b, value: ah }],
-                },
-              ],
-            },
-            { type: a, tag: m, props: { alt: e, src: ai }, children: [] },
-            {
-              type: a,
-              tag: k,
-              props: { id: aj },
-              children: [
-                { type: b, value: ak },
-                {
-                  type: a,
-                  tag: h,
-                  props: { href: I, rel: [j], title: p },
-                  children: [{ type: b, value: E }],
-                },
-                { type: b, value: al },
-                {
-                  type: a,
-                  tag: h,
-                  props: { href: I, rel: [j], title: p },
-                  children: [{ type: b, value: F }],
-                },
-              ],
-            },
-            { type: a, tag: m, props: { alt: e, src: am }, children: [] },
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                { type: b, value: O },
-                {
-                  type: a,
-                  tag: h,
-                  props: { href: P, rel: [j], title: A },
-                  children: [{ type: b, value: A }],
-                },
-              ],
-            },
-          ],
-        },
-        recipeLabels: [r],
-        time: Z,
-        timePrep: J,
-        portions: M,
-        publicerad: G,
-        author: e,
-        image: bh,
-        preamble: an,
-        metadescription: an,
-        body: {
-          type: o,
-          children: [
-            {
-              type: a,
-              tag: k,
-              props: { id: C },
-              children: [{ type: b, value: y }],
-            },
-            {
-              type: a,
-              tag: l,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: _ }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: $ }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: N }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: aa }],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [{ type: b, value: ab }],
-                },
-              ],
-            },
-            {
-              type: a,
-              tag: k,
-              props: { id: s },
-              children: [{ type: b, value: z }],
-            },
-            {
-              type: a,
-              tag: g,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: ac }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: ad }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: ae }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-                {
-                  type: a,
-                  tag: c,
-                  props: {},
-                  children: [
-                    {
-                      type: a,
-                      tag: g,
-                      props: {},
-                      children: [
-                        {
-                          type: a,
-                          tag: c,
-                          props: {},
-                          children: [{ type: b, value: af }],
-                        },
-                      ],
-                    },
-                  ],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: ag }] },
-            {
-              type: a,
-              tag: D,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: d,
-                  props: {},
-                  children: [{ type: b, value: ah }],
-                },
-              ],
-            },
-            { type: a, tag: m, props: { alt: e, src: ai }, children: [] },
-            {
-              type: a,
-              tag: k,
-              props: { id: aj },
-              children: [
-                { type: b, value: ak },
-                {
-                  type: a,
-                  tag: h,
-                  props: { href: I, rel: [j], title: p },
-                  children: [{ type: b, value: E }],
-                },
-                { type: b, value: al },
-                {
-                  type: a,
-                  tag: h,
-                  props: { href: I, rel: [j], title: p },
-                  children: [{ type: b, value: F }],
-                },
-              ],
-            },
-            { type: a, tag: m, props: { alt: e, src: am }, children: [] },
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                { type: b, value: O },
-                {
-                  type: a,
-                  tag: h,
-                  props: { href: P, rel: [j], title: A },
-                  children: [{ type: b, value: A }],
-                },
-              ],
-            },
-          ],
-          toc: { title: e, searchDepth: n, depth: n, links: [] },
-        },
-        _type: v,
-        _id: bi,
-        _source: w,
-        _file: bj,
-        _extension: x,
-      },
-      "meta-block-foralder-eller-pedagog": {
-        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
-        _dir: Q,
-        _draft: i,
-        _partial: i,
-        _locale: e,
-        _empty: i,
-        title: "Förälder eller Pedagog?",
-        description:
-          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-        excerpt: {
-          type: o,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: bk }],
-                },
-                { type: b, value: t },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: bl }],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: bm }] },
-          ],
-        },
-        displayTitle: G,
-        editorDescription: "Footer-block för vuxna och pedagoger",
-        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
-        body: {
-          type: o,
-          children: [
-            {
-              type: a,
-              tag: d,
-              props: {},
-              children: [
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: bk }],
-                },
-                { type: b, value: t },
-                {
-                  type: a,
-                  tag: f,
-                  props: {},
-                  children: [{ type: b, value: bl }],
-                },
-              ],
-            },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: bm }] },
-          ],
-          toc: { title: e, searchDepth: n, depth: n, links: [] },
-        },
-        _type: v,
-        _id: "content:block:foralder-eller-pedagog.md",
-        _source: w,
-        _file: "block\u002Fforalder-eller-pedagog.md",
-        _extension: x,
-      },
-      $IwTD5indAh: {
-        _path: "\u002Fblock\u002Ffooter-image",
-        _dir: Q,
-        _draft: i,
-        _partial: i,
-        _locale: e,
-        _empty: i,
-        title: "footer-image",
-        description: e,
-        excerpt: {
-          type: o,
-          children: [
-            { type: a, tag: m, props: { alt: e, src: bn }, children: [] },
-          ],
-        },
-        displayTitle: i,
-        editorDescription:
-          "Bild som visas längst upp i footern\u002F över footern",
-        linkText: aC,
-        url: e,
-        body: {
-          type: o,
-          children: [
-            { type: a, tag: m, props: { alt: e, src: bn }, children: [] },
-          ],
-          toc: { title: e, searchDepth: n, depth: n, links: [] },
-        },
-        _type: v,
-        _id: "content:block:footer-image.md",
-        _source: w,
-        _file: "block\u002Ffooter-image.md",
-        _extension: x,
-      },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
-        _dir: Q,
-        _draft: i,
-        _partial: i,
-        _locale: e,
-        _empty: i,
-        title: "footer-top",
-        description: aD,
-        excerpt: {
-          type: o,
-          children: [
-            { type: a, tag: d, props: {}, children: [{ type: b, value: aD }] },
-          ],
-        },
-        displayTitle: i,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
-        linkText: aC,
-        url: e,
-        body: {
-          type: o,
-          children: [
-            { type: a, tag: d, props: {}, children: [{ type: b, value: aD }] },
-          ],
-          toc: { title: e, searchDepth: n, depth: n, links: [] },
-        },
-        _type: v,
-        _id: "content:block:footer-top.md",
-        _source: w,
-        _file: "block\u002Ffooter-top.md",
-        _extension: x,
-      },
       "meta-block-radda-djuren-klubben": {
         _path: "\u002Fblock\u002Fradda-djuren-klubben",
-        _dir: Q,
+        _dir: N,
         _draft: i,
         _partial: i,
         _locale: e,
@@ -1080,12 +534,12 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bo }],
+                  children: [{ type: b, value: bh }],
                 },
-                { type: b, value: bp },
+                { type: b, value: bi },
               ],
             },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: bq }] },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: bj }] },
             {
               type: a,
               tag: d,
@@ -1095,19 +549,19 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: br }],
+                  children: [{ type: b, value: bk }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bs, rel: [j] },
+                  props: { href: bl, rel: [j] },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: R }],
+                      children: [{ type: b, value: O }],
                     },
                   ],
                 },
@@ -1115,40 +569,40 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bt }],
+                  children: [{ type: b, value: bm }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bu, rel: [j], title: bv },
+                  props: { href: bn, rel: [j], title: bo },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: R }],
+                      children: [{ type: b, value: O }],
                     },
                   ],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bw }],
+                  children: [{ type: b, value: bp }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bx, rel: [j], title: p },
+                  props: { href: bq, rel: [j], title: p },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: R }],
+                      children: [{ type: b, value: O }],
                     },
                   ],
                 },
@@ -1156,7 +610,7 @@ export default (function (
             },
           ],
         },
-        displayTitle: G,
+        displayTitle: C,
         editorDescription: "footerblock om RDK",
         link: {
           url: "\u002Fvuxen-eller-pedagog\u002Fom-radda-djuren-klubben",
@@ -1174,12 +628,12 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bo }],
+                  children: [{ type: b, value: bh }],
                 },
-                { type: b, value: bp },
+                { type: b, value: bi },
               ],
             },
-            { type: a, tag: d, props: {}, children: [{ type: b, value: bq }] },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: bj }] },
             {
               type: a,
               tag: d,
@@ -1189,19 +643,19 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: br }],
+                  children: [{ type: b, value: bk }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bs, rel: [j] },
+                  props: { href: bl, rel: [j] },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: R }],
+                      children: [{ type: b, value: O }],
                     },
                   ],
                 },
@@ -1209,40 +663,40 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bt }],
+                  children: [{ type: b, value: bm }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bu, rel: [j], title: bv },
+                  props: { href: bn, rel: [j], title: bo },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: R }],
+                      children: [{ type: b, value: O }],
                     },
                   ],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bw }],
+                  children: [{ type: b, value: bp }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bx, rel: [j], title: p },
+                  props: { href: bq, rel: [j], title: p },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: R }],
+                      children: [{ type: b, value: O }],
                     },
                   ],
                 },
@@ -1257,9 +711,522 @@ export default (function (
         _file: "block\u002Fradda-djuren-klubben.md",
         _extension: x,
       },
+      "/vego/recept/vegobullar": {
+        _path: aA,
+        _dir: H,
+        _draft: i,
+        _partial: i,
+        _locale: e,
+        _empty: i,
+        title: aB,
+        description: e,
+        excerpt: {
+          type: o,
+          children: [
+            {
+              type: a,
+              tag: k,
+              props: { id: D },
+              children: [{ type: b, value: y }],
+            },
+            {
+              type: a,
+              tag: l,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: _ }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: $ }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: P }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: aa }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: ab }],
+                },
+              ],
+            },
+            {
+              type: a,
+              tag: k,
+              props: { id: t },
+              children: [{ type: b, value: z }],
+            },
+            {
+              type: a,
+              tag: g,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: ac }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: ad }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: ae }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: af }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: ag }] },
+            {
+              type: a,
+              tag: E,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: d,
+                  props: {},
+                  children: [{ type: b, value: ah }],
+                },
+              ],
+            },
+            { type: a, tag: m, props: { alt: e, src: ai }, children: [] },
+            {
+              type: a,
+              tag: k,
+              props: { id: aj },
+              children: [
+                { type: b, value: ak },
+                {
+                  type: a,
+                  tag: h,
+                  props: { href: I, rel: [j], title: p },
+                  children: [{ type: b, value: F }],
+                },
+                { type: b, value: al },
+                {
+                  type: a,
+                  tag: h,
+                  props: { href: I, rel: [j], title: p },
+                  children: [{ type: b, value: G }],
+                },
+              ],
+            },
+            { type: a, tag: m, props: { alt: e, src: am }, children: [] },
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                { type: b, value: Q },
+                {
+                  type: a,
+                  tag: h,
+                  props: { href: R, rel: [j], title: A },
+                  children: [{ type: b, value: A }],
+                },
+              ],
+            },
+          ],
+        },
+        recipeLabels: [r],
+        time: Z,
+        timePrep: J,
+        portions: M,
+        publicerad: C,
+        author: e,
+        image: br,
+        preamble: an,
+        metadescription: an,
+        body: {
+          type: o,
+          children: [
+            {
+              type: a,
+              tag: k,
+              props: { id: D },
+              children: [{ type: b, value: y }],
+            },
+            {
+              type: a,
+              tag: l,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: _ }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: $ }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: P }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: aa }],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [{ type: b, value: ab }],
+                },
+              ],
+            },
+            {
+              type: a,
+              tag: k,
+              props: { id: t },
+              children: [{ type: b, value: z }],
+            },
+            {
+              type: a,
+              tag: g,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: ac }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: ad }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: ae }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: a,
+                  tag: c,
+                  props: {},
+                  children: [
+                    {
+                      type: a,
+                      tag: g,
+                      props: {},
+                      children: [
+                        {
+                          type: a,
+                          tag: c,
+                          props: {},
+                          children: [{ type: b, value: af }],
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: ag }] },
+            {
+              type: a,
+              tag: E,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: d,
+                  props: {},
+                  children: [{ type: b, value: ah }],
+                },
+              ],
+            },
+            { type: a, tag: m, props: { alt: e, src: ai }, children: [] },
+            {
+              type: a,
+              tag: k,
+              props: { id: aj },
+              children: [
+                { type: b, value: ak },
+                {
+                  type: a,
+                  tag: h,
+                  props: { href: I, rel: [j], title: p },
+                  children: [{ type: b, value: F }],
+                },
+                { type: b, value: al },
+                {
+                  type: a,
+                  tag: h,
+                  props: { href: I, rel: [j], title: p },
+                  children: [{ type: b, value: G }],
+                },
+              ],
+            },
+            { type: a, tag: m, props: { alt: e, src: am }, children: [] },
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                { type: b, value: Q },
+                {
+                  type: a,
+                  tag: h,
+                  props: { href: R, rel: [j], title: A },
+                  children: [{ type: b, value: A }],
+                },
+              ],
+            },
+          ],
+          toc: { title: e, searchDepth: n, depth: n, links: [] },
+        },
+        _type: v,
+        _id: bs,
+        _source: w,
+        _file: bt,
+        _extension: x,
+      },
+      "meta-block-foralder-eller-pedagog": {
+        _path: "\u002Fblock\u002Fforalder-eller-pedagog",
+        _dir: N,
+        _draft: i,
+        _partial: i,
+        _locale: e,
+        _empty: i,
+        title: "Förälder eller Pedagog?",
+        description:
+          "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser, därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+        excerpt: {
+          type: o,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: bu }],
+                },
+                { type: b, value: s },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: bv }],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: bw }] },
+          ],
+        },
+        displayTitle: C,
+        editorDescription: "Footer-block för vuxna och pedagoger",
+        link: { url: "\u002Fvuxen-eller-pedagog", linkText: "Läs mer" },
+        body: {
+          type: o,
+          children: [
+            {
+              type: a,
+              tag: d,
+              props: {},
+              children: [
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: bu }],
+                },
+                { type: b, value: s },
+                {
+                  type: a,
+                  tag: f,
+                  props: {},
+                  children: [{ type: b, value: bv }],
+                },
+              ],
+            },
+            { type: a, tag: d, props: {}, children: [{ type: b, value: bw }] },
+          ],
+          toc: { title: e, searchDepth: n, depth: n, links: [] },
+        },
+        _type: v,
+        _id: "content:block:foralder-eller-pedagog.md",
+        _source: w,
+        _file: "block\u002Fforalder-eller-pedagog.md",
+        _extension: x,
+      },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: N,
+        _draft: i,
+        _partial: i,
+        _locale: e,
+        _empty: i,
+        title: "footer-top",
+        description: aC,
+        excerpt: {
+          type: o,
+          children: [
+            { type: a, tag: d, props: {}, children: [{ type: b, value: aC }] },
+          ],
+        },
+        displayTitle: i,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: aD,
+        url: e,
+        body: {
+          type: o,
+          children: [
+            { type: a, tag: d, props: {}, children: [{ type: b, value: aC }] },
+          ],
+          toc: { title: e, searchDepth: n, depth: n, links: [] },
+        },
+        _type: v,
+        _id: "content:block:footer-top.md",
+        _source: w,
+        _file: "block\u002Ffooter-top.md",
+        _extension: x,
+      },
       "meta-block-footer-djurens-ratt": {
         _path: "\u002Fblock\u002Ffooter-djurens-ratt",
-        _dir: Q,
+        _dir: N,
         _draft: i,
         _partial: i,
         _locale: e,
@@ -1279,19 +1246,19 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: by }],
+                  children: [{ type: b, value: bx }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bz, rel: [j] },
+                  props: { href: by, rel: [j] },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: bA }],
+                      children: [{ type: b, value: bz }],
                     },
                   ],
                 },
@@ -1299,10 +1266,10 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bB }],
+                  children: [{ type: b, value: bA }],
                 },
                 { type: a, tag: K, props: {}, children: [] },
-                { type: b, value: bC },
+                { type: b, value: bB },
               ],
             },
             {
@@ -1314,7 +1281,7 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bD }],
+                  children: [{ type: b, value: bC }],
                 },
               ],
             },
@@ -1338,19 +1305,19 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: by }],
+                  children: [{ type: b, value: bx }],
                 },
-                { type: b, value: t },
+                { type: b, value: s },
                 {
                   type: a,
                   tag: h,
-                  props: { href: bz, rel: [j] },
+                  props: { href: by, rel: [j] },
                   children: [
                     {
                       type: a,
                       tag: f,
                       props: {},
-                      children: [{ type: b, value: bA }],
+                      children: [{ type: b, value: bz }],
                     },
                   ],
                 },
@@ -1358,10 +1325,10 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bB }],
+                  children: [{ type: b, value: bA }],
                 },
                 { type: a, tag: K, props: {}, children: [] },
-                { type: b, value: bC },
+                { type: b, value: bB },
               ],
             },
             {
@@ -1373,7 +1340,7 @@ export default (function (
                   type: a,
                   tag: f,
                   props: {},
-                  children: [{ type: b, value: bD }],
+                  children: [{ type: b, value: bC }],
                 },
               ],
             },
@@ -1386,9 +1353,42 @@ export default (function (
         _file: "block\u002Ffooter-djurens-ratt.md",
         _extension: x,
       },
+      $IwTD5indAh: {
+        _path: "\u002Fblock\u002Ffooter-image",
+        _dir: N,
+        _draft: i,
+        _partial: i,
+        _locale: e,
+        _empty: i,
+        title: "footer-image",
+        description: e,
+        excerpt: {
+          type: o,
+          children: [
+            { type: a, tag: m, props: { alt: e, src: bD }, children: [] },
+          ],
+        },
+        displayTitle: i,
+        editorDescription:
+          "Bild som visas längst upp i footern\u002F över footern",
+        linkText: aD,
+        url: e,
+        body: {
+          type: o,
+          children: [
+            { type: a, tag: m, props: { alt: e, src: bD }, children: [] },
+          ],
+          toc: { title: e, searchDepth: n, depth: n, links: [] },
+        },
+        _type: v,
+        _id: "content:block:footer-image.md",
+        _source: w,
+        _file: "block\u002Ffooter-image.md",
+        _extension: x,
+      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
-        _dir: Q,
+        _dir: N,
         _draft: i,
         _partial: i,
         _locale: e,
@@ -1437,7 +1437,7 @@ export default (function (
         },
         displayTitle: i,
         editorDescription: "Footer-text med adress, utgivare och chefsredaktör",
-        linkText: aC,
+        linkText: aD,
         url: e,
         body: {
           type: o,
@@ -2189,7 +2189,7 @@ export default (function (
           time: Z,
           timePrep: J,
           portions: dn,
-          publicerad: G,
+          publicerad: C,
           author: e,
           image:
             "\u002Fv1660654740\u002Frdk\u002Fshutterstock_2027366231_d22j13.jpg",
@@ -2917,7 +2917,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [{ type: b, value: y }],
               },
               {
@@ -2966,7 +2966,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: z }],
               },
               {
@@ -3013,14 +3013,14 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: V, rel: [j], title: p },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: au },
                   {
                     type: a,
                     tag: h,
                     props: { href: V, rel: [j], title: dx },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -3050,7 +3050,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [{ type: b, value: y }],
               },
               {
@@ -3099,7 +3099,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: z }],
               },
               {
@@ -3146,14 +3146,14 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: V, rel: [j], title: p },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: au },
                   {
                     type: a,
                     tag: h,
                     props: { href: V, rel: [j], title: dx },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -3291,7 +3291,7 @@ export default (function (
               {
                 type: a,
                 tag: B,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: W }],
               },
               {
@@ -3355,7 +3355,7 @@ export default (function (
                     props: {},
                     children: [{ type: b, value: dU }],
                   },
-                  { type: b, value: t },
+                  { type: b, value: s },
                   {
                     type: a,
                     tag: h,
@@ -3367,7 +3367,7 @@ export default (function (
             ],
           },
           recipeLabels: [r],
-          publicerad: G,
+          publicerad: C,
           author: X,
           image:
             "\u002Fv1644590799\u002Frdk\u002Fraddadjuren-recept-vegansk-korvgifflar_btnuqn.jpg",
@@ -3482,7 +3482,7 @@ export default (function (
               {
                 type: a,
                 tag: B,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: W }],
               },
               {
@@ -3546,7 +3546,7 @@ export default (function (
                     props: {},
                     children: [{ type: b, value: dU }],
                   },
-                  { type: b, value: t },
+                  { type: b, value: s },
                   {
                     type: a,
                     tag: h,
@@ -3563,7 +3563,7 @@ export default (function (
               links: [
                 { id: aM, depth: L, text: aN },
                 { id: aO, depth: L, text: aP },
-                { id: s, depth: L, text: W },
+                { id: t, depth: L, text: W },
               ],
             },
           },
@@ -3680,7 +3680,7 @@ export default (function (
               {
                 type: a,
                 tag: B,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: W }],
               },
               {
@@ -3731,7 +3731,7 @@ export default (function (
                     props: {},
                     children: [{ type: b, value: ei }],
                   },
-                  { type: b, value: t },
+                  { type: b, value: s },
                   {
                     type: a,
                     tag: h,
@@ -3743,7 +3743,7 @@ export default (function (
             ],
           },
           recipeLabels: [r],
-          publicerad: G,
+          publicerad: C,
           author: X,
           image:
             "\u002Fv1644590810\u002Frdk\u002Fraddadjuren-recept-vegansk-lasagne_aniszr.jpg",
@@ -3851,7 +3851,7 @@ export default (function (
               {
                 type: a,
                 tag: B,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: W }],
               },
               {
@@ -3902,7 +3902,7 @@ export default (function (
                     props: {},
                     children: [{ type: b, value: ei }],
                   },
-                  { type: b, value: t },
+                  { type: b, value: s },
                   {
                     type: a,
                     tag: h,
@@ -3919,7 +3919,7 @@ export default (function (
               links: [
                 { id: aQ, depth: L, text: aR },
                 { id: aS, depth: L, text: aT },
-                { id: s, depth: L, text: W },
+                { id: t, depth: L, text: W },
               ],
             },
           },
@@ -4061,7 +4061,7 @@ export default (function (
               { type: a, tag: m, props: { alt: e, src: ez }, children: [] },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -4089,7 +4089,7 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: ax, rel: [j], title: eF },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -4114,7 +4114,7 @@ export default (function (
           time: Z,
           timePrep: J,
           portions: aU,
-          publicerad: G,
+          publicerad: C,
           author: e,
           image:
             "\u002Fv1664179994\u002Frdk\u002Fshutterstock_1916726909_dln8oh.jpg",
@@ -4243,7 +4243,7 @@ export default (function (
               { type: a, tag: m, props: { alt: e, src: ez }, children: [] },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -4271,7 +4271,7 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: ax, rel: [j], title: eF },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -4314,7 +4314,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [{ type: b, value: y }],
               },
               {
@@ -4332,7 +4332,7 @@ export default (function (
                     type: a,
                     tag: c,
                     props: {},
-                    children: [{ type: b, value: N }],
+                    children: [{ type: b, value: P }],
                   },
                   {
                     type: a,
@@ -4369,7 +4369,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: z }],
               },
               {
@@ -4441,7 +4441,7 @@ export default (function (
               },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -4476,14 +4476,14 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: ay, rel: [j], title: p },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: au },
                   {
                     type: a,
                     tag: h,
                     props: { href: ay, rel: [j], title: eX },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -4501,11 +4501,11 @@ export default (function (
                 tag: q,
                 props: { id: e_ },
                 children: [
-                  { type: b, value: O },
+                  { type: b, value: Q },
                   {
                     type: a,
                     tag: h,
-                    props: { href: P, rel: [j], title: e$ },
+                    props: { href: R, rel: [j], title: e$ },
                     children: [{ type: b, value: A }],
                   },
                 ],
@@ -4516,7 +4516,7 @@ export default (function (
           time: dn,
           timePrep: J,
           portions: M,
-          publicerad: G,
+          publicerad: C,
           author: e,
           image:
             "\u002Fv1665059130\u002Frdk\u002Fshutterstock_1255532578_1_qi6fbt.jpg",
@@ -4528,7 +4528,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [{ type: b, value: y }],
               },
               {
@@ -4546,7 +4546,7 @@ export default (function (
                     type: a,
                     tag: c,
                     props: {},
-                    children: [{ type: b, value: N }],
+                    children: [{ type: b, value: P }],
                   },
                   {
                     type: a,
@@ -4583,7 +4583,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: z }],
               },
               {
@@ -4655,7 +4655,7 @@ export default (function (
               },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -4690,14 +4690,14 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: ay, rel: [j], title: p },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: au },
                   {
                     type: a,
                     tag: h,
                     props: { href: ay, rel: [j], title: eX },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -4715,11 +4715,11 @@ export default (function (
                 tag: q,
                 props: { id: e_ },
                 children: [
-                  { type: b, value: O },
+                  { type: b, value: Q },
                   {
                     type: a,
                     tag: h,
-                    props: { href: P, rel: [j], title: e$ },
+                    props: { href: R, rel: [j], title: e$ },
                     children: [{ type: b, value: A }],
                   },
                 ],
@@ -4748,7 +4748,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [
                   {
                     type: a,
@@ -4810,7 +4810,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [
                   {
                     type: a,
@@ -4983,7 +4983,7 @@ export default (function (
               },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -5012,7 +5012,7 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: az, rel: [j], title: fy },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: fz },
                 ],
@@ -5023,7 +5023,7 @@ export default (function (
           time: Z,
           timePrep: J,
           portions: M,
-          publicerad: G,
+          publicerad: C,
           author: e,
           image: "\u002Fv1664265174\u002Frdk\u002Fimage00002_yzbq77.jpg",
           preamble:
@@ -5036,7 +5036,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [
                   {
                     type: a,
@@ -5098,7 +5098,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [
                   {
                     type: a,
@@ -5271,7 +5271,7 @@ export default (function (
               },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -5300,7 +5300,7 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: az, rel: [j], title: fy },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: fz },
                 ],
@@ -5329,7 +5329,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [{ type: b, value: y }],
               },
               {
@@ -5353,7 +5353,7 @@ export default (function (
                     type: a,
                     tag: c,
                     props: {},
-                    children: [{ type: b, value: N }],
+                    children: [{ type: b, value: P }],
                   },
                   {
                     type: a,
@@ -5372,7 +5372,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: z }],
               },
               {
@@ -5470,7 +5470,7 @@ export default (function (
               },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -5492,14 +5492,14 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: I, rel: [j], title: p },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: al },
                   {
                     type: a,
                     tag: h,
                     props: { href: I, rel: [j], title: p },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -5509,11 +5509,11 @@ export default (function (
                 tag: d,
                 props: {},
                 children: [
-                  { type: b, value: O },
+                  { type: b, value: Q },
                   {
                     type: a,
                     tag: h,
-                    props: { href: P, rel: [j], title: A },
+                    props: { href: R, rel: [j], title: A },
                     children: [{ type: b, value: A }],
                   },
                 ],
@@ -5524,9 +5524,9 @@ export default (function (
           time: Z,
           timePrep: J,
           portions: M,
-          publicerad: G,
+          publicerad: C,
           author: e,
-          image: bh,
+          image: br,
           preamble: an,
           metadescription: an,
           body: {
@@ -5535,7 +5535,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: C },
+                props: { id: D },
                 children: [{ type: b, value: y }],
               },
               {
@@ -5559,7 +5559,7 @@ export default (function (
                     type: a,
                     tag: c,
                     props: {},
-                    children: [{ type: b, value: N }],
+                    children: [{ type: b, value: P }],
                   },
                   {
                     type: a,
@@ -5578,7 +5578,7 @@ export default (function (
               {
                 type: a,
                 tag: k,
-                props: { id: s },
+                props: { id: t },
                 children: [{ type: b, value: z }],
               },
               {
@@ -5676,7 +5676,7 @@ export default (function (
               },
               {
                 type: a,
-                tag: D,
+                tag: E,
                 props: {},
                 children: [
                   {
@@ -5698,14 +5698,14 @@ export default (function (
                     type: a,
                     tag: h,
                     props: { href: I, rel: [j], title: p },
-                    children: [{ type: b, value: E }],
+                    children: [{ type: b, value: F }],
                   },
                   { type: b, value: al },
                   {
                     type: a,
                     tag: h,
                     props: { href: I, rel: [j], title: p },
-                    children: [{ type: b, value: F }],
+                    children: [{ type: b, value: G }],
                   },
                 ],
               },
@@ -5715,11 +5715,11 @@ export default (function (
                 tag: d,
                 props: {},
                 children: [
-                  { type: b, value: O },
+                  { type: b, value: Q },
                   {
                     type: a,
                     tag: h,
-                    props: { href: P, rel: [j], title: A },
+                    props: { href: R, rel: [j], title: A },
                     children: [{ type: b, value: A }],
                   },
                 ],
@@ -5728,14 +5728,14 @@ export default (function (
             toc: { title: e, searchDepth: n, depth: n, links: [] },
           },
           _type: v,
-          _id: bi,
+          _id: bs,
           _source: w,
-          _file: bj,
+          _file: bt,
           _extension: x,
         },
       ],
     },
-    prerenderedAt: 1677005225923,
+    prerenderedAt: 1677009443323,
   };
 })(
   "element",
@@ -5756,8 +5756,8 @@ export default (function (
   "TikTok",
   "h6",
   "slider",
-  "gör-så-här",
   " ",
+  "gör-så-här",
   "h2",
   "markdown",
   "content",
@@ -5766,22 +5766,22 @@ export default (function (
   "Gör så här:",
   "Välj Vego",
   "h3",
+  true,
   "du-behöver",
   "blockquote",
   "TikTok-kanal",
   "här",
-  true,
   "recept",
   "https:\u002F\u002Fwww.tiktok.com\u002F@raddadjurenklubben\u002Fvideo\u002F7142384792015817990?is_copy_url=1&is_from_webapp=v1&lang=sv-SE",
   null,
   "br",
   3,
   4,
+  "block",
+  "@raddadjurenklubben",
   "1 gul lök",
   "Recept från ",
   "https:\u002F\u002Fwww.valjvego.se\u002F",
-  "block",
-  "@raddadjurenklubben",
   "ca 20 st",
   "ca 15 st",
   "Servering:",
@@ -5820,8 +5820,8 @@ export default (function (
   "https:\u002F\u002Fwww.tiktok.com\u002F@raddadjurenklubben\u002Fvideo\u002F7147976530054991110?is_copy_url=1&is_from_webapp=v1&lang=sv-SE",
   "\u002Fvego\u002Frecept\u002Fvegobullar",
   "Veganska köttbullar = vegobullar ",
-  "\u002F",
   "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
+  "\u002F",
   "Tel: 08-555 914 26",
   "wienerstänger",
   "Wienerstänger",
@@ -5853,13 +5853,6 @@ export default (function (
   "Vegansk korvstroganoff ",
   "\u002Fvego\u002Frecept\u002Fveganska-fiskpinnar",
   "Veganska fiskpinnar ",
-  "\u002Fv1662042596\u002Frdk\u002Fshutterstock_1921380443_suscxt.jpg",
-  "content:vego:recept:vegobullar.md",
-  "vego\u002Frecept\u002Fvegobullar.md",
-  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
-  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
-  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
-  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra!",
   " 🐶🦁🐰",
   "Vi vill sprida information om djur, hur de har det, deras rättigheter och om hur du kan hjälpa djuren på enkla sätt. Det gör vi genom den här hemsidan och genom vår egen tidning Klubbnytt som våra medlemmar får fem gånger per år.",
@@ -5870,12 +5863,19 @@ export default (function (
   "Facebook",
   "och TikTok",
   "https:\u002F\u002Fwww.tiktok.com\u002F@raddadjurenklubben?",
+  "\u002Fv1662042596\u002Frdk\u002Fshutterstock_1921380443_suscxt.jpg",
+  "content:vego:recept:vegobullar.md",
+  "vego\u002Frecept\u002Fvegobullar.md",
+  "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
+  "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
+  "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
   "Rädda Djuren-klubben samarbetar med",
   "https:\u002F\u002Fwww.djurensratt.se\u002F",
   "Djurens Rätt",
   ".",
   "\nDjurens Rätt gör med målinriktade kampanjer och politiskt påverkansarbete skillnad globalt för de djur som är flest och har det sämst. Är sedan 1882 Sveriges ledande djurrätts- och djurskyddsorganisation med fler än 50 000 medlemmar.",
   "Vi står alltid på djurens sida.",
+  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",

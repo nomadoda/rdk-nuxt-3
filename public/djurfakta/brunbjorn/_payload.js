@@ -561,38 +561,6 @@ export default (function (
         _file: "block\u002Fforalder-eller-pedagog.md",
         _extension: n,
       },
-      $raOELVPXjJ: {
-        _path: "\u002Fblock\u002Ffooter-top",
-        _dir: o,
-        _draft: f,
-        _partial: f,
-        _locale: d,
-        _empty: f,
-        title: "footer-top",
-        description: v,
-        excerpt: {
-          type: g,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
-          ],
-        },
-        displayTitle: f,
-        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
-        linkText: w,
-        url: d,
-        body: {
-          type: g,
-          children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
-          ],
-          toc: { title: d, searchDepth: h, depth: h, links: [] },
-        },
-        _type: l,
-        _id: "content:block:footer-top.md",
-        _source: m,
-        _file: "block\u002Ffooter-top.md",
-        _extension: n,
-      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
         _dir: o,
@@ -601,11 +569,11 @@ export default (function (
         _locale: d,
         _empty: f,
         title: "Footer Text",
-        description: x,
+        description: v,
         excerpt: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
             {
               type: a,
               tag: c,
@@ -649,7 +617,7 @@ export default (function (
         body: {
           type: g,
           children: [
-            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
+            { type: a, tag: c, props: {}, children: [{ type: b, value: v }] },
             {
               type: a,
               tag: c,
@@ -693,6 +661,38 @@ export default (function (
         _file: "block\u002Ffooter-text.md",
         _extension: n,
       },
+      $raOELVPXjJ: {
+        _path: "\u002Fblock\u002Ffooter-top",
+        _dir: o,
+        _draft: f,
+        _partial: f,
+        _locale: d,
+        _empty: f,
+        title: "footer-top",
+        description: x,
+        excerpt: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
+          ],
+        },
+        displayTitle: f,
+        editorDescription: "Beskrivande text om Rädda Djuren-klubben",
+        linkText: w,
+        url: d,
+        body: {
+          type: g,
+          children: [
+            { type: a, tag: c, props: {}, children: [{ type: b, value: x }] },
+          ],
+          toc: { title: d, searchDepth: h, depth: h, links: [] },
+        },
+        _type: l,
+        _id: "content:block:footer-top.md",
+        _source: m,
+        _file: "block\u002Ffooter-top.md",
+        _extension: n,
+      },
       $IwTD5indAh: {
         _path: "\u002Fblock\u002Ffooter-image",
         _dir: o,
@@ -727,7 +727,7 @@ export default (function (
         _extension: n,
       },
     },
-    prerenderedAt: 1677005222025,
+    prerenderedAt: 1677009439536,
   };
 })(
   "element",
@@ -751,9 +751,9 @@ export default (function (
   null,
   true,
   "En vuxen brunbjörn kan bli 200 till 300 centimeter lång och väga hela 600 kilogram. Den känns igen på sitt stora huvud och sina små ögon och öron. Pälsen är tjock och kan variera från ljusbrun till mörkbrun. De yngre björnarna har ofta en ljusare färg runt halsen, vilket gör att det nästan ser ut som att de har ett halsband på sig.",
-  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
-  "\u002F",
   "Tel: 08-555 914 26",
+  "\u002F",
+  "Rädda Djuren-klubben är Sveriges största klubb för barn som bryr sig om djur. Alla barn upp till och med 13 år är välkomna att vara med.",
   "Rädda Djuren-klubben är en barnklubb för alla barn upp till 13 år som gillar djur och som vill att djuren ska ha det bra!",
   " 🐶🦁🐰",
   "Vi vill sprida information om djur, hur de har det, deras rättigheter och om hur du kan hjälpa djuren på enkla sätt. Det gör vi genom den här hemsidan och genom vår egen tidning Klubbnytt som våra medlemmar får fem gånger per år.",

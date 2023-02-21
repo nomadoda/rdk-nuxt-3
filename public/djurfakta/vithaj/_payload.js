@@ -1138,6 +1138,39 @@ export default (function (
         _file: "block\u002Ffooter-top.md",
         _extension: q,
       },
+      $IwTD5indAh: {
+        _path: "\u002Fblock\u002Ffooter-image",
+        _dir: s,
+        _draft: g,
+        _partial: g,
+        _locale: d,
+        _empty: g,
+        title: "footer-image",
+        description: d,
+        excerpt: {
+          type: i,
+          children: [
+            { type: a, tag: h, props: { alt: d, src: aV }, children: [] },
+          ],
+        },
+        displayTitle: g,
+        editorDescription:
+          "Bild som visas längst upp i footern\u002F över footern",
+        linkText: z,
+        url: d,
+        body: {
+          type: i,
+          children: [
+            { type: a, tag: h, props: { alt: d, src: aV }, children: [] },
+          ],
+          toc: { title: d, searchDepth: j, depth: j, links: [] },
+        },
+        _type: o,
+        _id: "content:block:footer-image.md",
+        _source: p,
+        _file: "block\u002Ffooter-image.md",
+        _extension: q,
+      },
       $u7UyWH2UUB: {
         _path: "\u002Fblock\u002Ffooter-text",
         _dir: s,
@@ -1156,12 +1189,12 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: aV },
+                { type: b, value: aW },
                 {
                   type: a,
                   tag: k,
-                  props: { href: aW },
-                  children: [{ type: b, value: aX }],
+                  props: { href: aX },
+                  children: [{ type: b, value: aY }],
                 },
               ],
             },
@@ -1170,9 +1203,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: aY },
-                { type: a, tag: u, props: {}, children: [] },
                 { type: b, value: aZ },
+                { type: a, tag: u, props: {}, children: [] },
+                { type: b, value: a_ },
               ],
             },
             {
@@ -1180,9 +1213,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: a_ },
-                { type: a, tag: u, props: {}, children: [] },
                 { type: b, value: a$ },
+                { type: a, tag: u, props: {}, children: [] },
+                { type: b, value: ba },
               ],
             },
           ],
@@ -1200,12 +1233,12 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: aV },
+                { type: b, value: aW },
                 {
                   type: a,
                   tag: k,
-                  props: { href: aW },
-                  children: [{ type: b, value: aX }],
+                  props: { href: aX },
+                  children: [{ type: b, value: aY }],
                 },
               ],
             },
@@ -1214,9 +1247,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: aY },
-                { type: a, tag: u, props: {}, children: [] },
                 { type: b, value: aZ },
+                { type: a, tag: u, props: {}, children: [] },
+                { type: b, value: a_ },
               ],
             },
             {
@@ -1224,9 +1257,9 @@ export default (function (
               tag: c,
               props: {},
               children: [
-                { type: b, value: a_ },
-                { type: a, tag: u, props: {}, children: [] },
                 { type: b, value: a$ },
+                { type: a, tag: u, props: {}, children: [] },
+                { type: b, value: ba },
               ],
             },
           ],
@@ -1238,41 +1271,8 @@ export default (function (
         _file: "block\u002Ffooter-text.md",
         _extension: q,
       },
-      $IwTD5indAh: {
-        _path: "\u002Fblock\u002Ffooter-image",
-        _dir: s,
-        _draft: g,
-        _partial: g,
-        _locale: d,
-        _empty: g,
-        title: "footer-image",
-        description: d,
-        excerpt: {
-          type: i,
-          children: [
-            { type: a, tag: h, props: { alt: d, src: ba }, children: [] },
-          ],
-        },
-        displayTitle: g,
-        editorDescription:
-          "Bild som visas längst upp i footern\u002F över footern",
-        linkText: z,
-        url: d,
-        body: {
-          type: i,
-          children: [
-            { type: a, tag: h, props: { alt: d, src: ba }, children: [] },
-          ],
-          toc: { title: d, searchDepth: j, depth: j, links: [] },
-        },
-        _type: o,
-        _id: "content:block:footer-image.md",
-        _source: p,
-        _file: "block\u002Ffooter-image.md",
-        _extension: q,
-      },
     },
-    prerenderedAt: 1677005222932,
+    prerenderedAt: 1677009440389,
   };
 })(
   "element",
@@ -1376,12 +1376,12 @@ export default (function (
   "Vi vill hjälpa alla barn att utveckla medkänsla för alla levande varelser,",
   "därför har vi också information och hjälpmedel för dig som är pedagog eller förälder.",
   "Här kan du hitta information för dig som är vuxen och om hur materialet kan användas i din vardag eller i din undervisning.",
+  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg",
   "Epost: ",
   "mailto:raddadjuren@djurensratt.se",
   "raddadjuren@djurensratt.se",
   "Post: Djurens Rätt, Rädda Djuren-klubben,",
   "\nBox 7023, 402 31 Göteborg",
   "Chefredaktör: Åsa Björk",
-  "\nAnsvarig utgivare: Benny Andersson",
-  "https:\u002F\u002Fres.cloudinary.com\u002Fklandestino-ab\u002Fimage\u002Fupload\u002Fc_lfill,fl_awebp,g_faces,w_1200\u002Fc_limit,dpr_auto,h_2000,w_1200\u002Fv1668679340\u002Frdk\u002Fraddadjuren_kanin_kyckling_ngkdmu.jpg"
+  "\nAnsvarig utgivare: Benny Andersson"
 );
