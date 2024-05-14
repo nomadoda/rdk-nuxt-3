@@ -1,0 +1,28 @@
+.page-vuxen-eller-pedagog .title[data-v-bce1c09a] h2 {
+  background-color: #9b51e0;
+}
+.page-vuxen-eller-pedagog ul[data-v-bce1c09a] {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .page-vuxen-eller-pedagog ul[data-v-bce1c09a] {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+.page-vuxen-eller-pedagog ul li[data-v-bce1c09a] {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+  width: 100%;
+}
+.page-vuxen-eller-pedagog ul li[data-v-bce1c09a] .themed {
+  background-color: #9b51e0;
+}

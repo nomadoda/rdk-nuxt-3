@@ -1,0 +1,212 @@
+@media (min-width: 768px) {
+  .page-djurfakta[data-v-9b4d22a2] {
+    margin-bottom: 5rem;
+  }
+}
+.page-djurfakta h1[data-v-9b4d22a2] {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 2.5rem;
+}
+.page-djurfakta .preamble[data-v-9b4d22a2] {
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.75rem;
+  margin-top: 2rem;
+}
+.page-djurfakta .byline[data-v-9b4d22a2] {
+  border-bottom-width: 2px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.25rem;
+  margin-top: 2rem;
+}
+.page-djurfakta .byline p[data-v-9b4d22a2] {
+  margin-bottom: 0.5rem;
+}
+.page-djurfakta .byline .author[data-v-9b4d22a2] {
+  float: right;
+}
+.page-djurfakta[data-v-9b4d22a2] blockquote {
+  background-color: #5ec19f;
+}
+.page-djurfakta section.sidebar-section[data-v-9b4d22a2] {
+  margin: 0 0 2rem;
+}
+.page-djurfakta section.sidebar-section h2[data-v-9b4d22a2] {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+.page-djurfakta section.sidebar-section .block[data-v-9b4d22a2] {
+  border-radius: 0.375rem;
+  overflow: hidden;
+}
+.page-djurfakta section.sidebar-section .block h2[data-v-9b4d22a2] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  text-align: center;
+}
+.page-djurfakta section.sidebar-section .block__content[data-v-9b4d22a2] {
+  padding: 1rem;
+}
+.page-djurfakta section.sidebar-section .block__preamble[data-v-9b4d22a2] {
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.page-djurfakta section.sidebar-section .note[data-v-9b4d22a2] {
+  font-style: italic;
+  margin-top: 2rem;
+}
+.page-djurfakta section.sidebar-section.facts ul li[data-v-9b4d22a2] {
+  --tw-text-opacity: 1;
+  background-color: #e6007e;
+  border-radius: 0.375rem;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  -webkit-clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  font-weight: 700;
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+}
+.page-djurfakta section.sidebar-section.animal-rights .block[data-v-9b4d22a2] {
+  background-color: #e6007e;
+}
+.page-djurfakta
+  section.sidebar-section.animal-rights
+  .block
+  h2[data-v-9b4d22a2] {
+  color: #e6007e;
+}
+.page-djurfakta
+  section.sidebar-section.animal-rights
+  .block__content[data-v-9b4d22a2] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.page-djurfakta section.sidebar-section.questions .block[data-v-9b4d22a2] {
+  background-color: #75d7d8;
+}
+.page-djurfakta section.sidebar-section.questions .block h2[data-v-9b4d22a2] {
+  color: #75d7d8;
+}
+.page-djurfakta
+  section.sidebar-section.questions
+  .block__content
+  ul
+  li[data-v-9b4d22a2] {
+  display: flex;
+  margin-top: 1rem;
+}
+.page-djurfakta
+  section.sidebar-section.questions
+  .block__content
+  ul
+  li
+  .bullet[data-v-9b4d22a2] {
+  --tw-bg-opacity: 1;
+  align-items: center;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  border-radius: 9999px;
+  color: #75d7d8;
+  display: inline-flex;
+  flex-shrink: 0;
+  font-weight: 700;
+  height: 2rem;
+  justify-content: center;
+  line-height: 1;
+  margin-right: 1.5rem;
+  padding-top: 2px;
+  width: 2rem;
+}
+.page-djurfakta
+  section.sidebar-section.questions
+  .block__content
+  ul
+  li
+  p[data-v-9b4d22a2] {
+  align-items: center;
+  display: inline-flex;
+}
+.page-djurfakta section.sidebar-section.sources .block[data-v-9b4d22a2] {
+  background-color: #5ec19f;
+}
+.page-djurfakta section.sidebar-section.sources .block h2[data-v-9b4d22a2] {
+  color: #5ec19f;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content[data-v-9b4d22a2] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  position: relative;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content[data-v-9b4d22a2]:not(.open) {
+  padding-bottom: 1.5rem;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content:not(.open)
+  button[data-v-9b4d22a2] {
+  bottom: 0;
+  left: 0;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content[data-v-9b4d22a2]:not(.open):after {
+  background: linear-gradient(transparent, #5ec19f 90%);
+  bottom: 0;
+  content: "";
+  height: 100%;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content
+  ol[data-v-9b4d22a2] {
+  list-style-type: decimal;
+  padding-left: 1.5rem;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content
+  ol
+  li[data-v-9b4d22a2] {
+  margin-bottom: 1rem;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content
+  button[data-v-9b4d22a2] {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.page-djurfakta
+  section.sidebar-section.sources
+  .block__content
+  button
+  .icon[data-v-9b4d22a2] {
+  margin-top: -0.25rem;
+}

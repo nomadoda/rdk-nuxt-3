@@ -1,0 +1,18 @@
+*[data-v-ab5478b5] {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  perspective: 1000px;
+  transform: translateZ(0);
+  will-change: height;
+}
+.expand-enter-active[data-v-ab5478b5],
+.expand-leave-active[data-v-ab5478b5] {
+  overflow: hidden;
+  transition-duration: 0.15s;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.expand-enter[data-v-ab5478b5],
+.expand-leave-to[data-v-ab5478b5] {
+  height: 0;
+}

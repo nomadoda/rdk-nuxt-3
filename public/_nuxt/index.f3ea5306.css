@@ -1,0 +1,46 @@
+.page-lar-dig-mer .title[data-v-3460b280] h2 {
+  background-color: #e6007e;
+}
+.page-lar-dig-mer .wrapper[data-v-3460b280] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  display: inline-block;
+  margin-bottom: 2rem;
+  position: relative;
+  width: 100%;
+}
+.page-lar-dig-mer .wrapper p.preamble[data-v-3460b280] {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: 3rem auto;
+  max-width: 42rem;
+  text-align: center;
+  width: 83.33333333333334%;
+}
+.page-lar-dig-mer .wrapper ul[data-v-3460b280] {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  max-width: 1200px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .page-lar-dig-mer .wrapper ul[data-v-3460b280] {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1024px) {
+  .page-lar-dig-mer .wrapper ul[data-v-3460b280] {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+.page-lar-dig-mer .wrapper ul li[data-v-3460b280] {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+}
+.page-lar-dig-mer .wrapper ul li[data-v-3460b280] .themed {
+  background-color: #e6007e;
+}

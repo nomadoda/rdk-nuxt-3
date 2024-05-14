@@ -1,0 +1,8 @@
+.min-h-slider[data-v-4ed309ee] {
+  min-height: min(400px, 80vw);
+}
+@media (min-width: 1024px) {
+  .min-h-slider[data-v-4ed309ee] {
+    min-height: 300px;
+  }
+}
